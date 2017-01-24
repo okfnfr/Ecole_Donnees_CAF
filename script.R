@@ -1,17 +1,4 @@
----
-title: "quartiers caf"
-author: "datactivist"
-date: "16 janvier 2017"
-output: 
-  html_document:
-    self_contained: false
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, cache = TRUE)
-```
-
-```{r}
+library(widgetframe)
 library(tmap)
 library(tmaptools)
 library(sp)
@@ -38,7 +25,7 @@ chevaleret <- set_projection(chevaleret, CRS("+init=epsg:4326"))
 lachapelle <- set_projection(lachapelle, CRS("+init=epsg:4326"))
 arrondissementsok <- set_projection(arrondissementsok, CRS("+init=epsg:4326"))
 
-leaflet() %>% 
+l <- leaflet() %>% 
   addProviderTiles(providers$CartoDB.DarkMatter, group = "Sombre") %>%
   addProviderTiles(providers$CartoDB.Positron, group = "Clair") %>%
   addPolygons(data = arrondissementsok, color = "lightgrey", weight = 3, fill = FALSE) %>% 
@@ -47,5 +34,4 @@ leaflet() %>%
   addPolygons(data = lachapelle, color = "green", weight = 8) %>% 
   addLayersControl(baseGroups=c('Sombre','Clair'))
 
-```
-
+htmlwidgets::saveWidget(frameableWidget(l),'quartiers.html')
