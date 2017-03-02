@@ -14,6 +14,11 @@ library(hrbrthemes)
 library(sf)
 iris <- read_sf("./data/CONTOURS-IRIS75.shp", stringsAsFactors = FALSE)
 
+library(extrafont)
+# font_import()
+loadfonts("pdf", quiet = TRUE)
+loadfonts("postscript", quiet = TRUE)
+
 
 # utilisation des services en ligne de la CAF
 
@@ -115,11 +120,6 @@ contacts_pc <- contacts %>%
   mutate_at(vars(APL:RSA), funs(. / Total_alloc * 100)) %>% 
   mutate_at(vars(CAFFR, APPLI, Accueil_physique, Borne), funs(. / Total_alloc))
 
-library(extrafont)
-loadfonts("pdf", quiet = TRUE)
-loadfonts("postscript", quiet = TRUE)
-
-
 png("./livrables/contacts.png", width = 16.54, height = 23.39, units = "in", res = 300)
 pdf("./livrables/contacts.pdf", width = 16.54, height = 23.39)
 contacts %>% 
@@ -141,12 +141,44 @@ contacts %>%
     geom_text(aes(label = paste0(substr(CODGEO, 4, 5), "e")), hjust = 0, nudge_y = 0.5, size = 5) +
     coord_flip() +
     facet_wrap(~ contact, labeller = labeller(contact = c("Accueil_physique" = "Accueil physique", "APPLI" = "Appli mobile", "Borne" = "Borne en agence", "CAFFR" = "Site caf.fr"))) +
-    theme_ipsum(grid = "X", base_size = 25) +
+    theme_ipsum_rc(grid = "X", base_size = 25) +
     xlab("") +
     ylab("Nombre de contacts avec la CAF par foyer allocataire, en 2015") +
     labs(title = "La grande majorité des contacts des allocataires avec la CAF se fait de manière dématérialisée", subtitle = "Le nombre de contacts est plus élevé dans les arrondissements les plus populaires.", caption = "Source : CAF de Paris. Réalisation : École des données/OKF pour la CAF.") +
     theme(axis.text.y = element_blank()) +
     ylim(c(0, 13))
+dev.off()
+dev.off()
+
+## Part de la pop allocataire par arrondissement
+png("./livrables/allocataires.png", width = 16.54, height = 23.39, units = "in", res = 300)
+pdf("./livrables/allocataires.pdf", width = 16.54, height = 23.39)
+allocataires_iris %>%
+  filter(!is.na(no_iris)) %>% 
+  filter(!no_iris %in% c("Inconnu", "Total")) %>% 
+  mutate(CODGEO = stringr::str_sub(no_iris, 1, 5)) %>% 
+  group_by(CODGEO) %>% 
+  summarise_at(vars(Total_alloc:RSA), funs(sum(., na.rm = TRUE))) %>% 
+  left_join(menages %>% filter(CODGEO %in% as.character(75101:75120)), by = "CODGEO") %>% 
+  mutate_at(vars(Total_alloc:RSA), funs(. / C13_MEN * 100)) %>% 
+  select(CODGEO, Total_alloc:RSA) %>% 
+  arrange(desc(Total_alloc)) %>% 
+  gather(alloc, valeur, Total_alloc:RSA) %>% 
+  arrange(alloc, valeur) %>% 
+  mutate(CODGEO = forcats::as_factor(CODGEO)) %>% 
+  mutate(color = if_else(CODGEO %in% "75113", "#FFAF9D", "#16307F")) %>% 
+  ggplot(aes(x = CODGEO, y = valeur)) +
+  geom_col(aes(fill = color), width = 0.85, show.legend = FALSE) +
+  scale_fill_manual(values = c("#FFAF9D" = "#FFAF9D", "#16307F" = "#16307F")) +
+  geom_text(aes(label = paste0(substr(CODGEO, 4, 5), "e")), hjust = 0, nudge_y = 0.5, size = 5) +
+  ylim(c(0,50)) +
+  coord_flip() +
+  facet_wrap(~ alloc, labeller = labeller(alloc = c("Total_alloc" = "Toutes allocations", "APL" = "APL", "ALF" = "ALF", "ALS" = "ALS", "PAJE" = "PAJE", "AF" = "AF", "ASF" = "ASF", "AAH" = "AAH", "AEEH" = "AEEH", "RSA" = "RSA"))) +
+  theme_ipsum_rc(grid = "X", base_size = 25) +
+  xlab("") +
+  ylab("Part des ménages qui sont allocataires") +
+  labs(title = "Les profils sociaux des arrondissements", subtitle = "Proportion des ménages allocataires par arrondissement", caption = "Source : CAF de Paris. Réalisation : École des données/OKF pour la CAF.") +
+  theme(axis.text.y = element_blank())
 dev.off()
 dev.off()
 
