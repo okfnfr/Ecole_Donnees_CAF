@@ -12,6 +12,9 @@ library(banR)
 library(hrbrthemes)
 epn <- read_csv("./data/espace-public-numerique-epn.csv")
 
+library(sf)
+iris <- read_sf("./data/CONTOURS-IRIS75.shp", stringsAsFactors = FALSE)
+
 epn <- epn %>% 
   select(Identifiant, Nom, adresse = `N° et libellé de voie`, CodeInsee = `Code Insee commune`) %>% 
   ban_geocode(adresses = adresse, code_insee = "CodeInsee") %>% 
@@ -161,3 +164,46 @@ contacts %>%
     ylim(c(0, 13))
 dev.off()
 
+# carte à l'iris
+
+pc_iris <- iris %>% 
+  left_join(contacts_pc, by = c("DCOMIRIS" = "no_iris")) %>% 
+  st_transform(4326)
+
+iris13 <- pc_iris %>% 
+  filter(DEPCOM %in% "75113") %>% 
+  st_union() %>% 
+  st_sf() %>% 
+  st_transform(4326)
+
+
+stbb <- pc_iris %>% 
+  filter(DEPCOM %in% "75113") %>% 
+  st_bbox()
+
+stbb_tmapbb <- function(x) {
+  matrix(c(x["xmin"], x["ymin"], x["xmax"], x["ymax"]), nrow = 2, dimnames = list(c("x", "y"), c("min", "max")))
+}
+
+paris13_osm <- read_osm(stbb_tmapbb(stbb), type = "https://cartodb-basemaps-a.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png", minNumTiles = 25)
+
+chevaleret <- pc_iris %>% 
+  filter(NOM_IRIS %in% c("GARE 15", "GARE 21", "GARE 20", "GARE 19", "GARE 13", "GARE 14")) %>%
+  st_union() %>% 
+  st_sf() %>% 
+  st_transform(4326)
+  
+
+pdf("./livrables/carte_contacts.pdf", width = 16.54, height = 23.39)
+tm_shape(paris13_osm) +
+  tm_raster() +
+tm_shape(pc_iris %>% filter(DEPCOM %in% "75113")) +
+  tm_fill(col = c("CAFFR", "APPLI", "Accueil_physique", "Borne"), alpha = 0.5, showNA = FALSE, title = "Contacts par\nfoyer allocataire") +
+tm_shape(iris13) +
+  tm_borders() +
+tm_shape(chevaleret) +
+  tm_borders(lty = 4, lwd = 2) + 
+tm_legend(legend.position = c("right", "bottom"), legend.format = list(text.separator = "à")) +
+tm_layout(title = c("Site caf.fr", "Appli mobile", "Accueil physique", "Borne en agence"), scale = 2, attr.outside.position = "bottom", attr.outside = TRUE) +
+  tm_credits(text = "Source : CAF de Paris. Réalisation : École des données/OKF pour la CAF. Map tiles by Carto, under CC BY 3.0. Data by OpenStreetMap, under ODbL.")
+dev.off()
