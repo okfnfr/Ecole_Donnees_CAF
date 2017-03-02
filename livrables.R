@@ -226,3 +226,23 @@ tm_layout(title = "Les EPN dans le 13e", scale = 1, attr.outside.position = "bot
   tm_credits("Source : NetPublic. Réalisation : École des données/OKF pour la CAF.\nMap tiles by Carto, under CC BY 3.0. Data by OpenStreetMap, under ODbL.")
 dev.off()
 dev.off()
+
+## carte des spots wifi ville de Paris
+
+wifi <- geojsonio::geojson_read("./data/liste_des_sites_des_hotspots_paris_wifi.geojson", what = "sp")
+wifi <- st_as_sf(wifi)
+
+png("./livrables/wifi.png", width = 16.54, height = 23.39, units = "in", res = 300)
+pdf("./livrables/wifi.pdf", width = 16.54, height = 23.39)
+tm_shape(fonds_clair) +
+  tm_raster() +
+  tm_shape(wifi) +
+  tm_squares(col = "blue") +
+  tm_shape(iris13) +
+  tm_borders() +
+  tm_shape(chevaleret) +
+  tm_borders(lwd = 2, lty = 5) +
+  tm_layout(title = "Les hotspots wifi Ville de Paris dans le 13e", scale = 1, attr.outside.position = "bottom", attr.outside = TRUE, title.size = 2) +
+  tm_credits("Source : opendata.paris.fr. Réalisation : École des données/OKF pour la CAF.\nMap tiles by Carto, under CC BY 3.0. Data by OpenStreetMap, under ODbL.")
+dev.off()
+dev.off()
