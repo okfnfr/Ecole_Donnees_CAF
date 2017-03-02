@@ -10,29 +10,9 @@ library(tmap)
 library(tmaptools)
 library(banR)
 library(hrbrthemes)
-epn <- read_csv("./data/espace-public-numerique-epn.csv")
 
 library(sf)
 iris <- read_sf("./data/CONTOURS-IRIS75.shp", stringsAsFactors = FALSE)
-
-epn <- epn %>% 
-  select(Identifiant, Nom, adresse = `N° et libellé de voie`, CodeInsee = `Code Insee commune`) %>% 
-  ban_geocode(adresses = adresse, code_insee = "CodeInsee") %>% 
-  filter(!is.na(latitude))
-
-coordinates(epn) <- c("longitude", "latitude")
-epn@proj4string <- CRS("+init=epsg:4326")
-
-fonds <- read_osm(bb(epn %>% filter(CodeInsee %in% "75113"), ext = 1.5), type = "stamen-watercolor")
-
-png("./livrables/epn.png", 800, 800)
-tm_shape(fonds) +
-  tm_raster() +
-tm_shape(epn) +
-  tm_squares(col = "blue") +
-  tm_text(text = "Nom", shadow = TRUE, auto.placement = TRUE) +
-tm_layout(title = "Les EPN dans le 13e", scale = 1.5)
-dev.off()
 
 
 # utilisation des services en ligne de la CAF
@@ -135,8 +115,13 @@ contacts_pc <- contacts %>%
   mutate_at(vars(APL:RSA), funs(. / Total_alloc * 100)) %>% 
   mutate_at(vars(CAFFR, APPLI, Accueil_physique, Borne), funs(. / Total_alloc))
 
+library(extrafont)
+loadfonts("pdf", quiet = TRUE)
+loadfonts("postscript", quiet = TRUE)
 
-png("./livrables/contacts.png", width = 800, height = 800)
+
+png("./livrables/contacts.png", width = 16.54, height = 23.39, units = "in", res = 300)
+pdf("./livrables/contacts.pdf", width = 16.54, height = 23.39)
 contacts %>% 
   filter(!is.na(no_iris)) %>% 
   filter(!no_iris %in% c("Inconnu", "Total")) %>% 
@@ -159,9 +144,10 @@ contacts %>%
     theme_ipsum(grid = "X", base_size = 25) +
     xlab("") +
     ylab("Nombre de contacts avec la CAF par foyer allocataire, en 2015") +
-    labs(title = "La grande majorité des contacts des allocataires avec la CAF se fait de manière dématérialisée", subtitle = "Le nombre de contacts est plus élevé dans les arrondissements les plus populaires.") +
+    labs(title = "La grande majorité des contacts des allocataires avec la CAF se fait de manière dématérialisée", subtitle = "Le nombre de contacts est plus élevé dans les arrondissements les plus populaires.", caption = "Source : CAF de Paris. Réalisation : École des données/OKF pour la CAF.") +
     theme(axis.text.y = element_blank()) +
     ylim(c(0, 13))
+dev.off()
 dev.off()
 
 # carte à l'iris
@@ -195,6 +181,7 @@ chevaleret <- pc_iris %>%
   
 
 pdf("./livrables/carte_contacts.pdf", width = 16.54, height = 23.39)
+png("./livrables/carte_contacts.png", width = 16.54, height = 23.39, units = "in", res = 300)
 tm_shape(paris13_osm) +
   tm_raster() +
 tm_shape(pc_iris %>% filter(DEPCOM %in% "75113")) +
@@ -206,4 +193,35 @@ tm_shape(chevaleret) +
 tm_legend(legend.position = c("right", "bottom"), legend.format = list(text.separator = "à")) +
 tm_layout(title = c("Site caf.fr", "Appli mobile", "Accueil physique", "Borne en agence"), scale = 2, attr.outside.position = "bottom", attr.outside = TRUE) +
   tm_credits(text = "Source : CAF de Paris. Réalisation : École des données/OKF pour la CAF. Map tiles by Carto, under CC BY 3.0. Data by OpenStreetMap, under ODbL.")
+dev.off()
+dev.off()
+
+# carte des EPN
+
+epn <- read_csv("./data/espace-public-numerique-epn.csv")
+
+epn <- epn %>% 
+  select(Identifiant, Nom, adresse = `N° et libellé de voie`, CodeInsee = `Code Insee commune`) %>% 
+  ban_geocode(adresses = adresse, code_insee = "CodeInsee") %>% 
+  filter(!is.na(latitude))
+
+coordinates(epn) <- c("longitude", "latitude")
+epn@proj4string <- CRS("+init=epsg:4326")
+
+fonds <- read_osm(bb(stbb_tmapbb(stbb), ext = 1.5), type = "https://cartodb-basemaps-a.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png", minNumTiles = 36)
+
+png("./livrables/epn.png", width = 16.54, height = 23.39, units = "in", res = 300)
+pdf("./livrables/epn.pdf", width = 16.54, height = 23.39)
+tm_shape(fonds) +
+  tm_raster() +
+tm_shape(epn) +
+  tm_squares(col = "blue") +
+  tm_text(text = "Nom", col = "white", just = c("left", "bottom")) +
+tm_shape(iris13) +
+  tm_borders(col = "lightgrey") +
+tm_shape(chevaleret) +
+  tm_borders(col = "lightgrey", lwd = 2, lty = 5) +
+tm_layout(title = "Les EPN dans le 13e", scale = 1.5, title.color = "light grey", attr.outside.position = "bottom", attr.outside = TRUE, title.size = 2) +
+  tm_credits("Source : NetPublic. Réalisation : École des données/OKF pour la CAF.\nMap tiles by Carto, under CC BY 3.0. Data by OpenStreetMap, under ODbL.")
+dev.off()
 dev.off()
