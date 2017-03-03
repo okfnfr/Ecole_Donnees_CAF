@@ -10,6 +10,7 @@ library(tmap)
 library(tmaptools)
 library(banR)
 library(hrbrthemes)
+library(geojsonio)
 
 library(sf)
 iris <- read_sf("./data/CONTOURS-IRIS75.shp", stringsAsFactors = FALSE)
@@ -228,6 +229,10 @@ tm_layout(title = c("Site caf.fr", "Appli mobile", "Accueil physique", "Borne en
 dev.off()
 dev.off()
 
+# export geojson
+
+geojson_write(pc_iris %>% filter(DEPCOM %in% "75113"), file = "./geojson/contacts.geojson")
+
 # carte des EPN
 
 epn <- read_csv("./data/espace-public-numerique-epn.csv")
@@ -259,6 +264,10 @@ tm_layout(title = "Les EPN dans le 13e", scale = 1, attr.outside.position = "bot
 dev.off()
 dev.off()
 
+# export geojson
+
+geojson_write(st_as_sf(epn), file = "./geojson/epn.geojson")
+
 ## carte des spots wifi ville de Paris
 
 wifi <- geojsonio::geojson_read("./data/liste_des_sites_des_hotspots_paris_wifi.geojson", what = "sp")
@@ -279,3 +288,7 @@ tm_layout(title = "Les points d'accès wifi libres et gratuits de la Ville de Pa
   tm_credits("Source : opendata.paris.fr. Réalisation : École des données/OKF pour la CAF.\nMap tiles by Carto, under CC BY 3.0. Data by OpenStreetMap, under ODbL.")
 dev.off()
 dev.off()
+
+# export geojson
+
+geojson_write(wifi, file = "./geojson/wifi.geojson")
