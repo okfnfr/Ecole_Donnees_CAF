@@ -268,13 +268,14 @@ png("./livrables/wifi.png", width = 16.54, height = 23.39, units = "in", res = 3
 pdf("./livrables/wifi.pdf", width = 16.54, height = 23.39)
 tm_shape(fonds_clair) +
   tm_raster() +
-  tm_shape(wifi) +
+tm_shape(wifi) +
   tm_squares(col = "blue") +
-  tm_shape(iris13) +
+  tm_text(text = "nom_site", size = 0.5,just = c("left", "bottom"), xmod = 0.5, remove.overlap = TRUE) +
+tm_shape(iris13) +
   tm_borders() +
-  tm_shape(chevaleret) +
+tm_shape(chevaleret) +
   tm_borders(lwd = 2, lty = 5) +
-  tm_layout(title = "Les hotspots wifi Ville de Paris dans le 13e", scale = 1, attr.outside.position = "bottom", attr.outside = TRUE, title.size = 2) +
+tm_layout(title = "Les hotspots wifi Ville de Paris dans le 13e", scale = 1, attr.outside.position = "bottom", attr.outside = TRUE, title.size = 2) +
   tm_credits("Source : opendata.paris.fr. Réalisation : École des données/OKF pour la CAF.\nMap tiles by Carto, under CC BY 3.0. Data by OpenStreetMap, under ODbL.")
 dev.off()
 dev.off()
