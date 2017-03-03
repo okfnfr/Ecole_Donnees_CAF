@@ -173,7 +173,7 @@ allocataires_iris %>%
   geom_text(aes(label = paste0(substr(CODGEO, 4, 5), "e")), hjust = 0, nudge_y = 0.5, size = 5) +
   ylim(c(0,50)) +
   coord_flip() +
-  facet_wrap(~ alloc, labeller = labeller(alloc = c("Total_alloc" = "Toutes allocations", "APL" = "APL", "ALF" = "ALF", "ALS" = "ALS", "PAJE" = "PAJE", "AF" = "AF", "ASF" = "ASF", "AAH" = "AAH", "AEEH" = "AEEH", "RSA" = "RSA"))) +
+  facet_wrap(~ alloc, labeller = labeller(alloc = c("Total_alloc" = "Toutes allocations", "APL" = "Aide personnalisée au logement", "ALF" = "Allocation de logement familiale", "ALS" = "Allocation de logement sociale", "PAJE" = "Prestation accueil jeune enfant", "AF" = "Allocations familiales", "ASF" = "Allocation de soutien familial", "AAH" = "Allocation adulte handicapé", "AEEH" = "Allocation d'éducation de l'enfant handicapé", "RSA" = "Revenu de solidarité active"))) +
   theme_ipsum_rc(grid = "X", base_size = 25) +
   xlab("") +
   ylab("Part des ménages qui sont allocataires") +
