@@ -1,0 +1,5061 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 23,
+        "arrondissement": "75004",
+        "adresse": "4, PLACE DE L'HOTEL DE VILLE",
+        "geo_point_2d1": 48.8568498,
+        "geo_point_2d2": 2.3527748,
+        "nom_site": "HOTEL DE VILLE (2E ETAGE)",
+        "code_site": "PARIS_WIFI_0409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3527748, 48.8568498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 27,
+        "arrondissement": "75004",
+        "adresse": "4, PLACE DE L'HOTEL DE VILLE",
+        "geo_point_2d1": 48.8566224,
+        "geo_point_2d2": 2.3529241,
+        "nom_site": "HOTEL DE VILLE (SOUS-SOL ET RDC)",
+        "code_site": "PARIS_WIFI_0413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3529241, 48.8566224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 29,
+        "arrondissement": "75004",
+        "adresse": "6, PLACE DES VO10ES",
+        "geo_point_2d1": 48.8548186,
+        "geo_point_2d2": 2.3661138,
+        "nom_site": "MAISON DE VICTOR HUGO (HOTEL DE ROHAN - GUEMENEE)",
+        "code_site": "PARIS_WIFI_0415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3661138, 48.8548186]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 30,
+        "arrondissement": "75004",
+        "adresse": "38, BOULEVARD HENRI IV",
+        "geo_point_2d1": 48.852195,
+        "geo_point_2d2": 2.366417,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 04",
+        "code_site": "PARIS_WIFI_0416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.366417, 48.852195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 35,
+        "arrondissement": "75004",
+        "adresse": "RUE DU CLOITRE NOTRE DAME",
+        "geo_point_2d1": 48.8520266,
+        "geo_point_2d2": 2.3516067,
+        "nom_site": "SQUARE JEAN XXIII",
+        "code_site": "PARIS_WIFI_0421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3516067, 48.8520266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 45,
+        "arrondissement": "75005",
+        "adresse": "74, RUE MOUFFETARD",
+        "geo_point_2d1": 48.8424907,
+        "geo_point_2d2": 2.3496552,
+        "nom_site": "BIBLIOTHEQUE MOHAMMED ARKOUN - EX : MOUFFETARD",
+        "code_site": "PARIS_WIFI_0504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3496552, 48.8424907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 46,
+        "arrondissement": "75005",
+        "adresse": "88 TER, BOULEVARD DE PORT ROYAL",
+        "geo_point_2d1": 48.8392388,
+        "geo_point_2d2": 2.3388463,
+        "nom_site": "BIBLIOTHEQUE PORT ROYAL",
+        "code_site": "PARIS_WIFI_0505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3388463, 48.8392388]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 49,
+        "arrondissement": "75005",
+        "adresse": "4, RUE DES ARENES",
+        "geo_point_2d1": 48.8451069,
+        "geo_point_2d2": 2.3542123,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 05",
+        "code_site": "PARIS_WIFI_0509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3542123, 48.8451069]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 50,
+        "arrondissement": "75005",
+        "adresse": "RUE MONGE",
+        "geo_point_2d1": 48.8454586,
+        "geo_point_2d2": 2.3532278,
+        "nom_site": "SQUARE DES ARENES DE LUTECE",
+        "code_site": "PARIS_WIFI_0510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3532278, 48.8454586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 51,
+        "arrondissement": "75005",
+        "adresse": "RUE DES ECOLES",
+        "geo_point_2d1": 48.8479432,
+        "geo_point_2d2": 2.3503607,
+        "nom_site": "SQUARE PAUL LANGEVIN",
+        "code_site": "PARIS_WIFI_0511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3503607, 48.8479432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 70,
+        "arrondissement": "75008",
+        "adresse": "3, RUE DE LISBONNE",
+        "geo_point_2d1": 48.8777645,
+        "geo_point_2d2": 2.3174841,
+        "nom_site": "BIBLIOTHEQUE EUROPE (MAIRIE DU 8E)",
+        "code_site": "PARIS_WIFI_0802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3174841, 48.8777645]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 71,
+        "arrondissement": "75008",
+        "adresse": "208, RUE DU FAUBOURG SAINT HONORE",
+        "geo_point_2d1": 48.8753614,
+        "geo_point_2d2": 2.3046084,
+        "nom_site": "CENTRE D'ANIMATION ESPACE BEAUJON",
+        "code_site": "PARIS_WIFI_0803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3046084, 48.8753614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 73,
+        "arrondissement": "75008",
+        "adresse": "3, RUE DE LISBONNE",
+        "geo_point_2d1": 48.8777708,
+        "geo_point_2d2": 2.3176508,
+        "nom_site": "MAIRIE  08",
+        "code_site": "PARIS_WIFI_0805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3176508, 48.8777708]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 75,
+        "arrondissement": "75008",
+        "adresse": "7, AVENUE VELASQUEZ",
+        "geo_point_2d1": 48.8797094,
+        "geo_point_2d2": 2.3123628,
+        "nom_site": "MUSEE CERNUSCHI",
+        "code_site": "PARIS_WIFI_0807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3123628, 48.8797094]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 88,
+        "arrondissement": "75009",
+        "adresse": "RUE LA FAYETTE",
+        "geo_point_2d1": 48.8771654,
+        "geo_point_2d2": 2.3467278,
+        "nom_site": "SQUARE MONTHOLON",
+        "code_site": "PARIS_WIFI_0908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3467278, 48.8771654]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 91,
+        "arrondissement": "75010",
+        "adresse": "72, RUE DU FAUBOURG SAINT MARTIN",
+        "geo_point_2d1": 48.8719863,
+        "geo_point_2d2": 2.3574794,
+        "nom_site": "BIBLIOTHEQUE CHATEAU D'EAU",
+        "code_site": "PARIS_WIFI_1001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3574794, 48.8719863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 104,
+        "arrondissement": "75010",
+        "adresse": "PLACE DE LA REPUBLIQUE",
+        "geo_point_2d1": 48.8671435,
+        "geo_point_2d2": 2.3645324,
+        "nom_site": "PLACE DE LA REPUBLIQUE EST",
+        "code_site": "PARIS_WIFI-1014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3645324, 48.8671435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 116,
+        "arrondissement": "75011",
+        "adresse": "67, BOULEVARD RICHARD LENOIR",
+        "geo_point_2d1": 48.8591879,
+        "geo_point_2d2": 2.3719656,
+        "nom_site": "PROMENADE RICHARD LENOIR",
+        "code_site": "PARIS_WIFI_1110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3719656, 48.8591879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 118,
+        "arrondissement": "75011",
+        "adresse": "159, RUE DE CHARONNE",
+        "geo_point_2d1": 48.8565344,
+        "geo_point_2d2": 2.3895371,
+        "nom_site": "SQUARE CHARONNE",
+        "code_site": "PARIS_WIFI_1112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3895371, 48.8565344]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 123,
+        "arrondissement": "75012",
+        "adresse": "30, RUE DU FAUBOURG SAINT ANTOINE",
+        "geo_point_2d1": 48.8523859,
+        "geo_point_2d2": 2.3717571,
+        "nom_site": "ACTIVITES ARTISANALES ET CREATION",
+        "code_site": "PARIS_WIFI_1201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3717571, 48.8523859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 146,
+        "arrondissement": "75012",
+        "adresse": "ROUTE DE LA FERME",
+        "geo_point_2d1": 48.824142,
+        "geo_point_2d2": 2.459716,
+        "nom_site": "ECOLE DU BREUIL",
+        "code_site": "PARIS_WIFI_1225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.459716, 48.824142]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 147,
+        "arrondissement": "75012",
+        "adresse": "Avenue des Minimes",
+        "geo_point_2d1": 48.8380209,
+        "geo_point_2d2": 2.4424046,
+        "nom_site": "PARC FLORAL",
+        "code_site": "PARIS_WIFI_1226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4424046, 48.8380209]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 149,
+        "arrondissement": "75013",
+        "adresse": "211, BOULEVARD VINCENT AURIOL",
+        "geo_point_2d1": 48.8309196,
+        "geo_point_2d2": 2.3570689,
+        "nom_site": "BIBLIOTHEQUE ITALIE",
+        "code_site": "PARIS_WIFI_1302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3570689, 48.8309196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 154,
+        "arrondissement": "75013",
+        "adresse": "81, BOULEVARD MASSENA",
+        "geo_point_2d1": 48.8206006,
+        "geo_point_2d2": 2.3682485,
+        "nom_site": "Centre Sportif Georges Carpentier Gymnase Annexe",
+        "code_site": "PARIS_WIFI_1307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3682485, 48.8206006]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 158,
+        "arrondissement": "75013",
+        "adresse": "RUE DU MOULINET",
+        "geo_point_2d1": 48.8270874,
+        "geo_point_2d2": 2.354052,
+        "nom_site": "JARDIN DE LA MONTGOLFIERE (ex MOULINET VANDREZANN)",
+        "code_site": "PARIS_WIFI_1311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.354052, 48.8270874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 161,
+        "arrondissement": "75013",
+        "adresse": "237, RUE DE TOLBIAC",
+        "geo_point_2d1": 48.826005,
+        "geo_point_2d2": 2.3432757,
+        "nom_site": "JARDIN MICHELET",
+        "code_site": "PARIS_WIFI_1314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3432757, 48.826005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 170,
+        "arrondissement": "75013",
+        "adresse": "BOULEVARD VINCENT AURIOL",
+        "geo_point_2d1": 48.831931,
+        "geo_point_2d2": 2.3608201,
+        "nom_site": "SQUARE DE LA RAFFINERIE SAY",
+        "code_site": "PARIS_WIFI_1323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3608201, 48.831931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 175,
+        "arrondissement": "75013",
+        "adresse": "22, RUE PIERRE GOURDAULT",
+        "geo_point_2d1": 48.8311609,
+        "geo_point_2d2": 2.3696178,
+        "nom_site": "SQUARE HELOISE ET ABELARD",
+        "code_site": "PARIS_WIFI_1328"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3696178, 48.8311609]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 179,
+        "arrondissement": "75013",
+        "adresse": "99 BOULEVARD KELLERMANN",
+        "geo_point_2d1": 48.8189915,
+        "geo_point_2d2": 2.3457034,
+        "nom_site": "STADE CHARLETY",
+        "code_site": "PARIS_WIFI_1332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3457034, 48.8189915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 187,
+        "arrondissement": "75014",
+        "adresse": "3, AVENUE MAURICE D'OCAGNE",
+        "geo_point_2d1": 48.8242944,
+        "geo_point_2d2": 2.3147245,
+        "nom_site": "JARDIN JULES NOEL",
+        "code_site": "PARIS_WIFI_1407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3147245, 48.8242944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 188,
+        "arrondissement": "75014",
+        "adresse": "16-26, RUE DE CHATILLON",
+        "geo_point_2d1": 48.8279546,
+        "geo_point_2d2": 2.3225461,
+        "nom_site": "JARDIN PORTE DE CHATILLON",
+        "code_site": "PARIS_WIFI_1408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3225461, 48.8279546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 191,
+        "arrondissement": "75014",
+        "adresse": "2, RUE GAZAN",
+        "geo_point_2d1": 48.8240679,
+        "geo_point_2d2": 2.3364525,
+        "nom_site": "PARC MONTSOURIS",
+        "code_site": "PARIS_WIFI_1411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3364525, 48.8240679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 192,
+        "arrondissement": "75014",
+        "adresse": "2, RUE GAZAN",
+        "geo_point_2d1": 48.8237693,
+        "geo_point_2d2": 2.3397505,
+        "nom_site": "PARC MONTSOURIS",
+        "code_site": "PARIS_WIFI_1412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3397505, 48.8237693]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 202,
+        "arrondissement": "75015",
+        "adresse": "154, RUE LECOURBE",
+        "geo_point_2d1": 48.8417044,
+        "geo_point_2d2": 2.2993322,
+        "nom_site": "BIBLIOTHEQUE VAUGIRARD",
+        "code_site": "PARIS_WIFI_1503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2993322, 48.8417044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 205,
+        "arrondissement": "75015",
+        "adresse": "9, RUE DE LA MONTAGNE D'AULAS",
+        "geo_point_2d1": 48.8403168,
+        "geo_point_2d2": 2.2789083,
+        "nom_site": "CENTRE ANIMATION ESPACE CEVENNES",
+        "code_site": "PARIS_WIFI_1506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2789083, 48.8403168]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 206,
+        "arrondissement": "75015",
+        "adresse": "2, RUE LOUIS ARMAND",
+        "geo_point_2d1": 48.8307875,
+        "geo_point_2d2": 2.2686081,
+        "nom_site": "CENTRE SPORTIF SUZANNE LENGLEN  (TRIBUNE COUR DE TENNIS)",
+        "code_site": "PARIS_WIFI_1507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2686081, 48.8307875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 210,
+        "arrondissement": "75015",
+        "adresse": "28, RUE EDGAR FAURE",
+        "geo_point_2d1": 48.8519727,
+        "geo_point_2d2": 2.2950378,
+        "nom_site": "JARDIN NICOLE DE HAUTECLOCQUE",
+        "code_site": "PARIS_WIFI_1511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2950378, 48.8519727]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 214,
+        "arrondissement": "75015",
+        "adresse": "16, RUE ANTOINE BOURDELLE",
+        "geo_point_2d1": 48.8430164,
+        "geo_point_2d2": 2.3188243,
+        "nom_site": "MUSEE ANTOINE BOURDELLE",
+        "code_site": "PARIS_WIFI_1515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3188243, 48.8430164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 222,
+        "arrondissement": "75015",
+        "adresse": "RUE DU DOCTEUR JACQUEMAIRE",
+        "geo_point_2d1": 48.8424859,
+        "geo_point_2d2": 2.2959633,
+        "nom_site": "SQUARE SAINT LAMBERT",
+        "code_site": "PARIS_WIFI_1524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2959633, 48.8424859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 224,
+        "arrondissement": "75015",
+        "adresse": "PLACE VIOLET",
+        "geo_point_2d1": 48.8439855,
+        "geo_point_2d2": 2.2889992,
+        "nom_site": "SQUARE VIOLET",
+        "code_site": "PARIS_WIFI_1526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2889992, 48.8439855]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 227,
+        "arrondissement": "75016",
+        "adresse": "CHAUSSEE DE LA MUETTE",
+        "geo_point_2d1": 48.8585458,
+        "geo_point_2d2": 2.2713484,
+        "nom_site": "JARDIN DU RANELAGH",
+        "code_site": "PARIS_WIFI_1603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2713484, 48.8585458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 230,
+        "arrondissement": "75016",
+        "adresse": "20, AVENUE FERDINAND BUISSON",
+        "geo_point_2d1": 48.8370298,
+        "geo_point_2d2": 2.2541582,
+        "nom_site": "JARDIN PORTE DE SAINT CLOUD",
+        "code_site": "PARIS_WIFI_1606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2541582, 48.8370298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 233,
+        "arrondissement": "75016",
+        "adresse": "16, AVENUE RENE BOYLESVE",
+        "geo_point_2d1": 48.8565345,
+        "geo_point_2d2": 2.2841716,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 16",
+        "code_site": "PARIS_WIFI_1609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2841716, 48.8565345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 235,
+        "arrondissement": "75016",
+        "adresse": "AVENUE DU PRESIDENT KENNEDY",
+        "geo_point_2d1": 48.8561476,
+        "geo_point_2d2": 2.2833807,
+        "nom_site": "PARC DE PASSY",
+        "code_site": "PARIS_WIFI_1611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2833807, 48.8561476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 238,
+        "arrondissement": "75016",
+        "adresse": "BOIS DE BOULOGNE",
+        "geo_point_2d1": 48.8783397,
+        "geo_point_2d2": 2.2648532,
+        "nom_site": "JARDIN D'ACCLIMATATION",
+        "code_site": "PARIS_WIFI_1615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2648532, 48.8783397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 242,
+        "arrondissement": "75017",
+        "adresse": "11, RUE NICOLAS CHUQUET",
+        "geo_point_2d1": 48.8885023,
+        "geo_point_2d2": 2.3032611,
+        "nom_site": "BIBLIOTHEQUE ROSTAND",
+        "code_site": "PARIS_WIFI_1703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3032611, 48.8885023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 244,
+        "arrondissement": "75017",
+        "adresse": "211, BOULEVARD PEREIRE",
+        "geo_point_2d1": 48.8815092,
+        "geo_point_2d2": 2.291002,
+        "nom_site": "JARDIN DE LA PROMENADE PEREIRE",
+        "code_site": "PARIS_WIFI_1705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.291002, 48.8815092]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 252,
+        "arrondissement": "75017",
+        "adresse": "2, RUE GUSTAVE CHARPENTIER",
+        "geo_point_2d1": 48.8824673,
+        "geo_point_2d2": 2.2821626,
+        "nom_site": "SQUARE DU CARDINAL PETIT DE JULLEVILLE",
+        "code_site": "PARIS_WIFI_1713"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2821626, 48.8824673]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 253,
+        "arrondissement": "75017",
+        "adresse": "55, AVENUE DE CLICHY",
+        "geo_point_2d1": 48.8873605,
+        "geo_point_2d2": 2.3251542,
+        "nom_site": "SQUARE ERNEST CHAUSSON",
+        "code_site": "PARIS_WIFI_1714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3251542, 48.8873605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 258,
+        "arrondissement": "75018",
+        "adresse": "18 BIS RUE DU DEPARTEMENT",
+        "geo_point_2d1": 48.8871333,
+        "geo_point_2d2": 2.3655587,
+        "nom_site": "JARDIN D EOLE",
+        "code_site": "PARIS_WIFI_1805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3655587, 48.8871333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 268,
+        "arrondissement": "75018",
+        "adresse": "26 ESPLANADE NATHALIE SARRAUTE",
+        "geo_point_2d1": 48.889007,
+        "geo_point_2d2": 2.3629002,
+        "nom_site": "BIBLIOTHEQUE VACLAV HAVEL",
+        "code_site": "PARIS_WIFI_1815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3629002, 48.889007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 270,
+        "arrondissement": "75019",
+        "adresse": "141, AVENUE DE FLANDRE",
+        "geo_point_2d1": 48.8927584,
+        "geo_point_2d2": 2.3791039,
+        "nom_site": "BIBLIOTHEQUE BENJAMIN RABIER",
+        "code_site": "PARIS_WIFI_1902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3791039, 48.8927584]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 272,
+        "arrondissement": "75019",
+        "adresse": "6, RUE FESSART",
+        "geo_point_2d1": 48.8762662,
+        "geo_point_2d2": 2.3881653,
+        "nom_site": "BIBLIOTHEQUE FESSART",
+        "code_site": "PARIS_WIFI_1904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3881653, 48.8762662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 276,
+        "arrondissement": "75019",
+        "adresse": "133, BOULEVARD SERURIER",
+        "geo_point_2d1": 48.8841605,
+        "geo_point_2d2": 2.3944825,
+        "nom_site": "CENTRE D'ANIMATION ANGELE MERCIER",
+        "code_site": "PARIS_WIFI_1908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3944825, 48.8841605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 280,
+        "arrondissement": "75019",
+        "adresse": "27, RUE DU MAROC",
+        "geo_point_2d1": 48.8870059,
+        "geo_point_2d2": 2.3677495,
+        "nom_site": "MAISON DU DEVELOPPEMENT ECONOMIQUE DU 19",
+        "code_site": "PARIS_WIFI_1912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3677495, 48.8870059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 281,
+        "arrondissement": "75019",
+        "adresse": "5, RUE ALPHONSE AULARD",
+        "geo_point_2d1": 48.8807191,
+        "geo_point_2d2": 2.3996811,
+        "nom_site": "PARC DE LA BUTTE DU CHAPEAU ROUGE",
+        "code_site": "PARIS_WIFI_1913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3996811, 48.8807191]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 284,
+        "arrondissement": "75019",
+        "adresse": "1, RUE BOTZARIS",
+        "geo_point_2d1": 48.8766451,
+        "geo_point_2d2": 2.380512,
+        "nom_site": "PARC DES BUTTES CHAUMONT (BOLIVAR)",
+        "code_site": "PARIS_WIFI_1916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.380512, 48.8766451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 285,
+        "arrondissement": "75019",
+        "adresse": "4, PLACE ARMAND CARREL",
+        "geo_point_2d1": 48.8820584,
+        "geo_point_2d2": 2.382158,
+        "nom_site": "PARC DES BUTTES CHAUMONT (CARREL)",
+        "code_site": "PARIS_WIFI_1917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.382158, 48.8820584]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 287,
+        "arrondissement": "75019",
+        "adresse": "39, RUE EDOUARD PAILLERON",
+        "geo_point_2d1": 48.8807565,
+        "geo_point_2d2": 2.3774862,
+        "nom_site": "SOLARIUM EDOUARD PAILLERON",
+        "code_site": "PARIS_WIFI_1919"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3774862, 48.8807565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 294,
+        "arrondissement": "75020",
+        "adresse": "12, RUE DU TELEGRAPHE",
+        "geo_point_2d1": 48.8720611,
+        "geo_point_2d2": 2.3997805,
+        "nom_site": "BIBLIOTHEQUE OSCAR WILDE (EX : SAINT FARGEAU)",
+        "code_site": "PARIS_WIFI_2004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3997805, 48.8720611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 303,
+        "arrondissement": "75020",
+        "adresse": "6, PLACE GAMBETTA",
+        "geo_point_2d1": 48.8650886,
+        "geo_point_2d2": 2.3989787,
+        "nom_site": "MAIRIE 20",
+        "code_site": "PARIS_WIFI_2013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3989787, 48.8650886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 312,
+        "arrondissement": "75020",
+        "adresse": "RUE SAINT BLAISE",
+        "geo_point_2d1": 48.8577072,
+        "geo_point_2d2": 2.406052,
+        "nom_site": "SQUARE DE LA SALAMANDRE",
+        "code_site": "PARIS_WIFI_2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.406052, 48.8577072]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 313,
+        "arrondissement": "75020",
+        "adresse": "RUE BELGRAND",
+        "geo_point_2d1": 48.8651165,
+        "geo_point_2d2": 2.4002516,
+        "nom_site": "SQUARE EDOUARD VAILLANT",
+        "code_site": "PARIS_WIFI_2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4002516, 48.8651165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 315,
+        "arrondissement": "75020",
+        "adresse": "RUE PIXERECOURT",
+        "geo_point_2d1": 48.8732545,
+        "geo_point_2d2": 2.3962397,
+        "nom_site": "SQUARE PIXERECOURT",
+        "code_site": "PARIS_WIFI_2025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3962397, 48.8732545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 316,
+        "arrondissement": "75020",
+        "adresse": "9, AVENUE GAMBETTA",
+        "geo_point_2d1": 48.863096,
+        "geo_point_2d2": 2.3897594,
+        "nom_site": "SQUARE SAMUEL CHAMPLAIN",
+        "code_site": "PARIS_WIFI_2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3897594, 48.863096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 11,
+        "arrondissement": "75003",
+        "adresse": "2, RUE EUGENE SPULLER",
+        "geo_point_2d1": 48.8640737,
+        "geo_point_2d2": 2.3622326,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 03",
+        "code_site": "PARIS-WIFI_0303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3622326, 48.8640737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 2,
+        "arrondissement": "75001",
+        "adresse": "4, PLACE DU LOUVRE",
+        "geo_point_2d1": 48.8601079,
+        "geo_point_2d2": 2.3411147,
+        "nom_site": "MAIRIE  01 - BIBLIOTHEQUE LOUVRE",
+        "code_site": "PARIS_WIFI_0105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3411147, 48.8601079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 3,
+        "arrondissement": "75001",
+        "adresse": "6, PLACE CARREE",
+        "geo_point_2d1": 48.8619199,
+        "geo_point_2d2": 2.3472363,
+        "nom_site": "CENTRE D'ANIMATION LES HALLES LE MARAIS",
+        "code_site": "PARIS_WIFI_0103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3472363, 48.8619199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 10,
+        "arrondissement": "75003",
+        "adresse": "2, RUE EUGENE SPULLER",
+        "geo_point_2d1": 48.8639893,
+        "geo_point_2d2": 2.3615132,
+        "nom_site": "MAIRIE  03",
+        "code_site": "PARIS-WIFI_0302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3615132, 48.8639893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 13,
+        "arrondissement": "75003",
+        "adresse": "23, RUE DE SEVIGNE",
+        "geo_point_2d1": 48.8570539,
+        "geo_point_2d2": 2.362831,
+        "nom_site": "MUSEE CARNAVALET",
+        "code_site": "PARIS-WIFI_0305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.362831, 48.8570539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 14,
+        "arrondissement": "75003",
+        "adresse": "RUE SAINT MARTIN",
+        "geo_point_2d1": 48.8673464,
+        "geo_point_2d2": 2.353996,
+        "nom_site": "SQUARE EMILE CHAUTEMPS",
+        "code_site": "PARIS-WIFI_0306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.353996, 48.8673464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 15,
+        "arrondissement": "75003",
+        "adresse": "14, RUE PAYENNE",
+        "geo_point_2d1": 48.8581335,
+        "geo_point_2d2": 2.3630646,
+        "nom_site": "SQUARE GEORGES CAIN",
+        "code_site": "PARIS-WIFI_0307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3630646, 48.8581335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 20,
+        "arrondissement": "75004",
+        "adresse": "24, RUE PAVEE",
+        "geo_point_2d1": 48.8570464,
+        "geo_point_2d2": 2.3616489,
+        "nom_site": "BIBLIOTHEQUE HISTORIQUE DE LA VILLE DE PARIS",
+        "code_site": "PARIS_WIFI_0404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3616489, 48.8570464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 34,
+        "arrondissement": "75004",
+        "adresse": "QUAI DE L'HOTEL DE VILLE",
+        "geo_point_2d1": 48.8549201,
+        "geo_point_2d2": 2.3528322,
+        "nom_site": "SQUARE DE L'HOTEL DE VILLE",
+        "code_site": "PARIS_WIFI_0420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3528322, 48.8549201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 41,
+        "arrondissement": "75005",
+        "adresse": "8, RUE SCIPION",
+        "geo_point_2d1": 48.8386713,
+        "geo_point_2d2": 2.35391,
+        "nom_site": "SQUARE THEODORE MONOD (EX : SCIPION)",
+        "code_site": "PARIS_WIFI_0514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.35391, 48.8386713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 47,
+        "arrondissement": "75005",
+        "adresse": "8 QUAI SAINT BERNARD",
+        "geo_point_2d1": 48.8483185,
+        "geo_point_2d2": 2.3591321,
+        "nom_site": "JARDIN TINO ROSSI",
+        "code_site": "PARIS_WIFI_0507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3591321, 48.8483185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 48,
+        "arrondissement": "75005",
+        "adresse": "21, PLACE DU PANTHEON",
+        "geo_point_2d1": 48.8461889,
+        "geo_point_2d2": 2.3445624,
+        "nom_site": "MAIRIE  05",
+        "code_site": "PARIS_WIFI_0508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3445624, 48.8461889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 52,
+        "arrondissement": "75005",
+        "adresse": "RUE LAGRANGE",
+        "geo_point_2d1": 48.8519934,
+        "geo_point_2d2": 2.3477322,
+        "nom_site": "SQUARE RENE VIVIANI",
+        "code_site": "PARIS_WIFI_0512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3477322, 48.8519934]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 57,
+        "arrondissement": "75006",
+        "adresse": "BOULEVARD DU MONTPARNASSE",
+        "geo_point_2d1": 48.8434096,
+        "geo_point_2d2": 2.3275078,
+        "nom_site": "SQUARE OZANAM",
+        "code_site": "PARIS_WIFI_0605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3275078, 48.8434096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 65,
+        "arrondissement": "75007",
+        "adresse": "7 ALLEE CHARLES BOURGEOIS",
+        "geo_point_2d1": 48.8570525,
+        "geo_point_2d2": 2.2935151,
+        "nom_site": "PARC CHAMPS DE MARS",
+        "code_site": "PARIS_WIFI_0707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2935151, 48.8570525]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 77,
+        "arrondissement": "75008",
+        "adresse": "1, PLACE DE LA REPUBLIQUE DOMINICAINE",
+        "geo_point_2d1": 48.8799517,
+        "geo_point_2d2": 2.309166,
+        "nom_site": "PARC MONCEAU (ENTREE PARC)",
+        "code_site": "PARIS_WIFI_0809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.309166, 48.8799517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 79,
+        "arrondissement": "75008",
+        "adresse": "AVENUE EDOUARD TUCK",
+        "geo_point_2d1": 48.8658382,
+        "geo_point_2d2": 2.3179734,
+        "nom_site": "PROMENADE DES CHAMPS ELYSEES (KIOSQUE A MUSIQUE)",
+        "code_site": "PARIS_WIFI_0811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3179734, 48.8658382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 80,
+        "arrondissement": "75008",
+        "adresse": "RUE PASQUIER",
+        "geo_point_2d1": 48.8739193,
+        "geo_point_2d2": 2.3227886,
+        "nom_site": "SQUARE LOUIS XVI",
+        "code_site": "PARIS_WIFI_0812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3227886, 48.8739193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 82,
+        "arrondissement": "75009",
+        "adresse": "26, RUE CHAPTAL",
+        "geo_point_2d1": 48.8811184,
+        "geo_point_2d2": 2.3322128,
+        "nom_site": "BIBLIOTHEQUE CHAPTAL",
+        "code_site": "PARIS_WIFI_0902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3322128, 48.8811184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 84,
+        "arrondissement": "75009",
+        "adresse": "24, RUE DE ROCHECHOUART",
+        "geo_point_2d1": 48.8779644,
+        "geo_point_2d2": 2.3450028,
+        "nom_site": "BIBLIOTHEQUE VALEYRE",
+        "code_site": "PARIS_WIFI_0904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3450028, 48.8779644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 85,
+        "arrondissement": "75009",
+        "adresse": "6, RUE DROUOT",
+        "geo_point_2d1": 48.8726047,
+        "geo_point_2d2": 2.3404374,
+        "nom_site": "MAIRIE  09",
+        "code_site": "PARIS_WIFI_0905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3404374, 48.8726047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 86,
+        "arrondissement": "75009",
+        "adresse": "54, RUE PIGALLE",
+        "geo_point_2d1": 48.8809752,
+        "geo_point_2d2": 2.335918,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 09",
+        "code_site": "PARIS_WIFI_0906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.335918, 48.8809752]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 98,
+        "arrondissement": "75010",
+        "adresse": "206, QUAI DE VALMY",
+        "geo_point_2d1": 48.8817814,
+        "geo_point_2d2": 2.3687012,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 10",
+        "code_site": "PARIS_WIFI_1008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3687012, 48.8817814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 103,
+        "arrondissement": "75010",
+        "adresse": "PLACE DE LA REPUBLIQUE",
+        "geo_point_2d1": 48.8679155,
+        "geo_point_2d2": 2.3632611,
+        "nom_site": "PLACE DE LA REPUBLIQUE OUEST",
+        "code_site": "PARIS_WIFI_1013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3632611, 48.8679155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 107,
+        "arrondissement": "75011",
+        "adresse": "43, RUE DE L'ORILLON",
+        "geo_point_2d1": 48.8705479,
+        "geo_point_2d2": 2.3773067,
+        "nom_site": "ANTENNE JEUNE ORILLON",
+        "code_site": "PARIS_WIFI_1101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3773067, 48.8705479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 113,
+        "arrondissement": "75011",
+        "adresse": "24, RUE DE LA FORGE ROYALE",
+        "geo_point_2d1": 48.8519725,
+        "geo_point_2d2": 2.3810301,
+        "nom_site": "JARDIN LOUIS MAJORELLE",
+        "code_site": "PARIS_WIFI_1107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3810301, 48.8519725]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 117,
+        "arrondissement": "75011",
+        "adresse": "25, BOULEVARD RICHARD LENOIR",
+        "geo_point_2d1": 48.8572236,
+        "geo_point_2d2": 2.3709637,
+        "nom_site": "SQUARE BREGUET SABIN",
+        "code_site": "PARIS_WIFI_1111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3709637, 48.8572236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 132,
+        "arrondissement": "75012",
+        "adresse": "21, RUE HENARD",
+        "geo_point_2d1": 48.8425952,
+        "geo_point_2d2": 2.3895572,
+        "nom_site": "ESPACE REUILLY",
+        "code_site": "PARIS_WIFI_1211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3895572, 48.8425952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 136,
+        "arrondissement": "75012",
+        "adresse": "130, AVENUE DAUMESNIL",
+        "geo_point_2d1": 48.8411016,
+        "geo_point_2d2": 2.3883187,
+        "nom_site": "MAIRIE  12",
+        "code_site": "PARIS_WIFI_1215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3883187, 48.8411016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 139,
+        "arrondissement": "75012",
+        "adresse": "1, COUR CHAMONARD",
+        "geo_point_2d1": 48.8355926,
+        "geo_point_2d2": 2.382143,
+        "nom_site": "PARC DE BERCY (JARDINAGE)",
+        "code_site": "PARIS_WIFI_1218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.382143, 48.8355926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 140,
+        "arrondissement": "75012",
+        "adresse": "1, COUR CHAMONARD",
+        "geo_point_2d1": 48.8356172,
+        "geo_point_2d2": 2.3832449,
+        "nom_site": "PARC DE BERCY (ORANGERIE)",
+        "code_site": "PARIS_WIFI_1219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3832449, 48.8356172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 141,
+        "arrondissement": "75012",
+        "adresse": "1, COUR CHAMONARD",
+        "geo_point_2d1": 48.8345376,
+        "geo_point_2d2": 2.3822165,
+        "nom_site": "PARC DE BERCY (TERRASSE BERCY)",
+        "code_site": "PARIS_WIFI_1220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3822165, 48.8345376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 150,
+        "arrondissement": "75013",
+        "adresse": "77, RUE NATIONALE",
+        "geo_point_2d1": 48.8269244,
+        "geo_point_2d2": 2.3664326,
+        "nom_site": "BIBLIOTHEQUE JEAN PIERRE MELVILLE",
+        "code_site": "PARIS_WIFI_1303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3664326, 48.8269244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 151,
+        "arrondissement": "75013",
+        "adresse": "17, BOULEVARD KELLERMANN",
+        "geo_point_2d1": 48.8197414,
+        "geo_point_2d2": 2.3566504,
+        "nom_site": "CENTRE D'ACCUEIL KELLERMANN",
+        "code_site": "PARIS_WIFI_1304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3566504, 48.8197414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 153,
+        "arrondissement": "75013",
+        "adresse": "81, BOULEVARD MASSENA",
+        "geo_point_2d1": 48.8200122,
+        "geo_point_2d2": 2.3676863,
+        "nom_site": "Centre Sportif Georges Carpentier Grande Halle",
+        "code_site": "PARIS_WIFI_1306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3676863, 48.8200122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 162,
+        "arrondissement": "75013",
+        "adresse": "1, PLACE D'ITALIE",
+        "geo_point_2d1": 48.8322885,
+        "geo_point_2d2": 2.3555584,
+        "nom_site": "MAIRIE  13",
+        "code_site": "PARIS_WIFI_1315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3555584, 48.8322885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 164,
+        "arrondissement": "75013",
+        "adresse": "13, RUE CAILLAUX",
+        "geo_point_2d1": 48.8226889,
+        "geo_point_2d2": 2.3613739,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 13",
+        "code_site": "PARIS_WIFI_1317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3613739, 48.8226889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 167,
+        "arrondissement": "75013",
+        "adresse": "160, AVENUE DE CHOISY",
+        "geo_point_2d1": 48.828323,
+        "geo_point_2d2": 2.3610351,
+        "nom_site": "PARC DE CHOISY",
+        "code_site": "PARIS_WIFI_1320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3610351, 48.828323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 168,
+        "arrondissement": "75013",
+        "adresse": "3, RUE DE LA POTERNE DES PEUPLIERS",
+        "geo_point_2d1": 48.8184882,
+        "geo_point_2d2": 2.3538019,
+        "nom_site": "PARC KELLERMANN",
+        "code_site": "PARIS_WIFI_1321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3538019, 48.8184882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 169,
+        "arrondissement": "75013",
+        "adresse": "PORTE DE LA GARE",
+        "geo_point_2d1": 48.8360239,
+        "geo_point_2d2": 2.3758804,
+        "nom_site": "SOLARIUM JOSEPHINE BAKER",
+        "code_site": "PARIS_WIFI_1322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3758804, 48.8360239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 172,
+        "arrondissement": "75013",
+        "adresse": "211, BOULEVARD MASSENA",
+        "geo_point_2d1": 48.8204546,
+        "geo_point_2d2": 2.3624828,
+        "nom_site": "SQUARE GANDON",
+        "code_site": "PARIS_WIFI_1325"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3624828, 48.8204546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 173,
+        "arrondissement": "75013",
+        "adresse": "RUE JEAN ANOUILH",
+        "geo_point_2d1": 48.8319927,
+        "geo_point_2d2": 2.3777419,
+        "nom_site": "SQUARE GEORGES DUHAMEL",
+        "code_site": "PARIS_WIFI_1326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3777419, 48.8319927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 174,
+        "arrondissement": "75013",
+        "adresse": "105, RUE JEANNE D ARC",
+        "geo_point_2d1": 48.8337536,
+        "geo_point_2d2": 2.3625345,
+        "nom_site": "SQUARE GUSTAVE MESUREUR",
+        "code_site": "PARIS_WIFI_1327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3625345, 48.8337536]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 180,
+        "arrondissement": "75013",
+        "adresse": "99 BOULEVARD KELLERMANN",
+        "geo_point_2d1": 48.818303,
+        "geo_point_2d2": 2.3455087,
+        "nom_site": "STADE CHARLETY",
+        "code_site": "PARIS_WIFI_1333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3455087, 48.818303]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 189,
+        "arrondissement": "75014",
+        "adresse": "2, PLACE FERDINAND BRUNOT",
+        "geo_point_2d1": 48.8329944,
+        "geo_point_2d2": 2.326836,
+        "nom_site": "MAIRIE  14",
+        "code_site": "PARIS_WIFI_1409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.326836, 48.8329944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 194,
+        "arrondissement": "75014",
+        "adresse": "RUE MOUTON DUVERNET",
+        "geo_point_2d1": 48.8318623,
+        "geo_point_2d2": 2.3258624,
+        "nom_site": "SQUARE ASPIRANT DUNAND",
+        "code_site": "PARIS_WIFI_1414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3258624, 48.8318623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 196,
+        "arrondissement": "75014",
+        "adresse": "72, RUE DU MOULIN VERT",
+        "geo_point_2d1": 48.8311652,
+        "geo_point_2d2": 2.3206941,
+        "nom_site": "SQUARE DU CHANOINE VIOLLET",
+        "code_site": "PARIS_WIFI_1416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3206941, 48.8311652]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 208,
+        "arrondissement": "75015",
+        "adresse": "2, RUE LOUIS ARMAND",
+        "geo_point_2d1": 48.8303867,
+        "geo_point_2d2": 2.2702528,
+        "nom_site": "CENTRE SPORTIF SUZANNE LENGLEN (STADE DE RUDBY)",
+        "code_site": "PARIS_WIFI_1509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2702528, 48.8303867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 209,
+        "arrondissement": "75015",
+        "adresse": "5, PLACE DES CINQ MARTYRS DU LYCÃ‰E BUFFON",
+        "geo_point_2d1": 48.8403295,
+        "geo_point_2d2": 2.3193256,
+        "nom_site": "JARDIN ATLANTIQUE",
+        "code_site": "PARIS_WIFI_1510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3193256, 48.8403295]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 216,
+        "arrondissement": "75015",
+        "adresse": "5, RUE DE LA MONTAGNE DE LA FAGE",
+        "geo_point_2d1": 48.8400487,
+        "geo_point_2d2": 2.2764095,
+        "nom_site": "PARC ANDRE CITROEN - ORANGERIE",
+        "code_site": "PARIS_WIFI_1518"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2764095, 48.8400487]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 232,
+        "arrondissement": "75016",
+        "adresse": "47, RUE RAYNOUARD",
+        "geo_point_2d1": 48.8553529,
+        "geo_point_2d2": 2.2808294,
+        "nom_site": "MAISON DE BALZAC",
+        "code_site": "PARIS_WIFI_1608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2808294, 48.8553529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 247,
+        "arrondissement": "75017",
+        "adresse": "147 RUE CARDINET",
+        "geo_point_2d1": 48.8915283,
+        "geo_point_2d2": 2.3139868,
+        "nom_site": "PARC MARTIN LUTHER KING (CLICHY - BATIGNOLLES)",
+        "code_site": "PARIS_WIFI_1708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3139868, 48.8915283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 255,
+        "arrondissement": "75018",
+        "adresse": "2, RUE FLEURY",
+        "geo_point_2d1": 48.8844784,
+        "geo_point_2d2": 2.3541486,
+        "nom_site": "BIBLIOTHEQUE GOUTTE D'OR",
+        "code_site": "PARIS_WIFI_1802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3541486, 48.8844784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 277,
+        "arrondissement": "75019",
+        "adresse": "15, RUE MATHIS",
+        "geo_point_2d1": 48.8907839,
+        "geo_point_2d2": 2.3748637,
+        "nom_site": "CENTRE D'ANIMATION JEAN MATHIS",
+        "code_site": "PARIS_WIFI_1909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3748637, 48.8907839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 282,
+        "arrondissement": "75019",
+        "adresse": "5, RUE ALPHONSE AULARD",
+        "geo_point_2d1": 48.8811764,
+        "geo_point_2d2": 2.3987882,
+        "nom_site": "PARC DE LA BUTTE DU CHAPEAU ROUGE",
+        "code_site": "PARIS_WIFI_1914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3987882, 48.8811764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 301,
+        "arrondissement": "75020",
+        "adresse": "59, BOULEVARD DAVOUT",
+        "geo_point_2d1": 48.8521421,
+        "geo_point_2d2": 2.4102994,
+        "nom_site": "JARDIN GARE DE CHARONNE",
+        "code_site": "PARIS_WIFI_2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4102994, 48.8521421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 306,
+        "arrondissement": "75020",
+        "adresse": "109-115, RUE DE BAGNOLET",
+        "geo_point_2d1": 48.8599294,
+        "geo_point_2d2": 2.403032,
+        "nom_site": "MEDIATHEQUE MARGUERITE DURAS",
+        "code_site": "PARIS_WIFI_2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.403032, 48.8599294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 314,
+        "arrondissement": "75020",
+        "adresse": "RUE LE VAU",
+        "geo_point_2d1": 48.8699788,
+        "geo_point_2d2": 2.4110418,
+        "nom_site": "SQUARE EMMANUELLE FLEURY",
+        "code_site": "PARIS_WIFI_2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4110418, 48.8699788]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 317,
+        "arrondissement": "75020",
+        "adresse": "RUE DE LAGNY",
+        "geo_point_2d1": 48.8492393,
+        "geo_point_2d2": 2.4047188,
+        "nom_site": "SQUARE SARAH BERHNARDT",
+        "code_site": "PARIS_WIFI_2027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4047188, 48.8492393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 319,
+        "arrondissement": "75020",
+        "adresse": "63 rue Buzenval",
+        "geo_point_2d1": 48.8528037,
+        "geo_point_2d2": 2.4007395,
+        "nom_site": "CENTRE D'ANIMATION KEN SARO WIWA",
+        "code_site": "PARIS_WIFI_2029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4007395, 48.8528037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 1,
+        "arrondissement": "75001",
+        "adresse": "FORUM DES HALLES",
+        "geo_point_2d1": 48.861975,
+        "geo_point_2d2": 2.3462596,
+        "nom_site": "BIBLIOTHEQUE FRANCOIS TRUFFAUT",
+        "code_site": "PARIS_WIFI_0101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3462596, 48.861975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 4,
+        "arrondissement": "75001",
+        "adresse": "8, PORTE SAINT EUSTACHE",
+        "geo_point_2d1": 48.8622729,
+        "geo_point_2d2": 2.3466434,
+        "nom_site": "DISCOTHEQUE DES HALLES",
+        "code_site": "PARIS_WIFI_0104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3466434, 48.8622729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 12,
+        "arrondissement": "75003",
+        "adresse": "50, RUE DES TOURNELLES",
+        "geo_point_2d1": 48.8562191,
+        "geo_point_2d2": 2.3673365,
+        "nom_site": "MAISON INITIATIVES ETUDIANTES",
+        "code_site": "PARIS-WIFI_0304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3673365, 48.8562191]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 17,
+        "arrondissement": "75004",
+        "adresse": "10, RUE DE FOURCY",
+        "geo_point_2d1": 48.8548404,
+        "geo_point_2d2": 2.3596331,
+        "nom_site": "ATELIER DE RESTAURATION PHOTOGRAPHIQUE  (ARCP)",
+        "code_site": "PARIS_WIFI_0401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3596331, 48.8548404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 21,
+        "arrondissement": "75004",
+        "adresse": "48, RUE VEILLE DU TEMPLE",
+        "geo_point_2d1": 48.8582586,
+        "geo_point_2d2": 2.3583737,
+        "nom_site": "ESPACE DES BLANCS MANTEAUX",
+        "code_site": "PARIS_WIFI_0407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3583737, 48.8582586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 24,
+        "arrondissement": "75004",
+        "adresse": "4, PLACE DE L'HOTEL DE VILLE",
+        "geo_point_2d1": 48.8566507,
+        "geo_point_2d2": 2.3521916,
+        "nom_site": "HOTEL DE VILLE (1ER ETAGE)",
+        "code_site": "PARIS_WIFI_0410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3521916, 48.8566507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 25,
+        "arrondissement": "75004",
+        "adresse": "4, PLACE DE L'HOTEL DE VILLE",
+        "geo_point_2d1": 48.8559279,
+        "geo_point_2d2": 2.3525422,
+        "nom_site": "HOTEL DE VILLE (3E ETAGE)",
+        "code_site": "PARIS_WIFI_0411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3525422, 48.8559279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 26,
+        "arrondissement": "75004",
+        "adresse": "4, PLACE DE L'HOTEL DE VILLE",
+        "geo_point_2d1": 48.8562904,
+        "geo_point_2d2": 2.3525743,
+        "nom_site": "HOTEL DE VILLE (4E ETAGE)",
+        "code_site": "PARIS_WIFI_0412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3525743, 48.8562904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 33,
+        "arrondissement": "75004",
+        "adresse": "4, PLACE DE L'HOTEL DE VILLE",
+        "geo_point_2d1": 48.8564668,
+        "geo_point_2d2": 2.3519435,
+        "nom_site": "PARVIS DE L'HOTEL DE VILLE (SEINE)",
+        "code_site": "PARIS_WIFI_0419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3519435, 48.8564668]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 38,
+        "arrondissement": "75004",
+        "adresse": "88, RUE DE RIVOLI",
+        "geo_point_2d1": 48.8577982,
+        "geo_point_2d2": 2.34927,
+        "nom_site": "SQUARE DE LA TOUR SAINT JACQUES",
+        "code_site": "PARIS_WIFI_0424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.34927, 48.8577982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 40,
+        "arrondissement": "75005",
+        "adresse": "32 RUE CENSIER",
+        "geo_point_2d1": 48.8397612,
+        "geo_point_2d2": 2.3505301,
+        "nom_site": "SQUARE SAINT MEDARD",
+        "code_site": "PARIS_WIFI_0513"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3505301, 48.8397612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 55,
+        "arrondissement": "75006",
+        "adresse": "60, RUE SAINT ANDRE DES ARTS",
+        "geo_point_2d1": 48.8535493,
+        "geo_point_2d2": 2.3396075,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 06",
+        "code_site": "PARIS_WIFI_0603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3396075, 48.8535493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 58,
+        "arrondissement": "75007",
+        "adresse": "164, RUE DE GRENELLE",
+        "geo_point_2d1": 48.8580658,
+        "geo_point_2d2": 2.3089716,
+        "nom_site": "BIBLIOTHEQUE AMELIE",
+        "code_site": "PARIS_WIFI_0701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3089716, 48.8580658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 59,
+        "arrondissement": "75007",
+        "adresse": "116, RUE DE GRENELLE",
+        "geo_point_2d1": 48.8569052,
+        "geo_point_2d2": 2.3198132,
+        "nom_site": "BIBLIOTHEQUE SAINT SIMON (MAIRIE DU 7E)",
+        "code_site": "PARIS_WIFI_0702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3198132, 48.8569052]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 72,
+        "arrondissement": "75008",
+        "adresse": "PLACE DU CANADA",
+        "geo_point_2d1": 48.8650429,
+        "geo_point_2d2": 2.3106883,
+        "nom_site": "JARDIN DE LA VALLEE SUISSE (ex PROMENADE DES CHAMPS ELYSEES (ASS))",
+        "code_site": "PARIS_WIFI_0804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3106883, 48.8650429]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 87,
+        "arrondissement": "75009",
+        "adresse": "PLACE D'ANVERS",
+        "geo_point_2d1": 48.8823857,
+        "geo_point_2d2": 2.344263,
+        "nom_site": "SQUARE D'ANVERS",
+        "code_site": "PARIS_WIFI_0907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.344263, 48.8823857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 89,
+        "arrondissement": "75009",
+        "adresse": "RUE BLANCHE",
+        "geo_point_2d1": 48.8767931,
+        "geo_point_2d2": 2.3312563,
+        "nom_site": "SQUARE TRINITE D ESTIENNE D ORVES",
+        "code_site": "PARIS_WIFI_0909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3312563, 48.8767931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 92,
+        "arrondissement": "75010",
+        "adresse": "81, BOULEVARD DE LA VILLETTE",
+        "geo_point_2d1": 48.8772456,
+        "geo_point_2d2": 2.3707694,
+        "nom_site": "BIBLIOTHEQUE FRANCOIS VILLON",
+        "code_site": "PARIS_WIFI_1002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3707694, 48.8772456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 94,
+        "arrondissement": "75010",
+        "adresse": "3, RUE DU CHATEAU D'EAU",
+        "geo_point_2d1": 48.8690385,
+        "geo_point_2d2": 2.3620773,
+        "nom_site": "BOURSE DU TRAVAIL",
+        "code_site": "PARIS_WIFI_1004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3620773, 48.8690385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 95,
+        "arrondissement": "75010",
+        "adresse": "116, QUAI DE JEMMAPES",
+        "geo_point_2d1": 48.8750423,
+        "geo_point_2d2": 2.3639107,
+        "nom_site": "CENTRE D'ANIMATION ESPACE JEMMAPES",
+        "code_site": "PARIS_WIFI_1005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3639107, 48.8750423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 100,
+        "arrondissement": "75010",
+        "adresse": "107, RUE DU FAUBOURG SAINT DENIS",
+        "geo_point_2d1": 48.8756483,
+        "geo_point_2d2": 2.3549903,
+        "nom_site": "SQUARE ALBAN SATRAGNE",
+        "code_site": "PARIS_WIFI_1010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3549903, 48.8756483]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 102,
+        "arrondissement": "75010",
+        "adresse": "ANGLE RUE JULIETTE DODU",
+        "geo_point_2d1": 48.8755733,
+        "geo_point_2d2": 2.3691782,
+        "nom_site": "SQUARE JULIETTE DODU",
+        "code_site": "PARIS_WIFI_1012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3691782, 48.8755733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 105,
+        "arrondissement": "75010",
+        "adresse": "8 RUE LEON SCHWARTZENBERG",
+        "geo_point_2d1": 48.875514,
+        "geo_point_2d2": 2.3538342,
+        "nom_site": "MEDIATHEQUE FRANCOISE SAGAN",
+        "code_site": "PARIS_WIFI_1015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3538342, 48.875514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 108,
+        "arrondissement": "75011",
+        "adresse": "18, RUE FAIDHERBE",
+        "geo_point_2d1": 48.851593,
+        "geo_point_2d2": 2.3839412,
+        "nom_site": "BIBLIOTHEQUE FAIDHERBE",
+        "code_site": "PARIS_WIFI_1102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3839412, 48.851593]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 109,
+        "arrondissement": "75011",
+        "adresse": "20, AVENUE PARMENTIER",
+        "geo_point_2d1": 48.8601579,
+        "geo_point_2d2": 2.3789665,
+        "nom_site": "BIBLIOTHEQUE PARMENTIER",
+        "code_site": "PARIS_WIFI_1103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3789665, 48.8601579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 111,
+        "arrondissement": "75011",
+        "adresse": "17 RUE TITON",
+        "geo_point_2d1": 48.8521551,
+        "geo_point_2d2": 2.3854183,
+        "nom_site": "JARDIN CITE PROST",
+        "code_site": "PARIS_WIFI_1105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3854183, 48.8521551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 120,
+        "arrondissement": "75011",
+        "adresse": "AVENUE JEAN AICARD",
+        "geo_point_2d1": 48.8658237,
+        "geo_point_2d2": 2.3808564,
+        "nom_site": "SQUARE JEAN AICARD",
+        "code_site": "PARIS_WIFI_1114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3808564, 48.8658237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 121,
+        "arrondissement": "75011",
+        "adresse": "4, RUE SERVAN",
+        "geo_point_2d1": 48.8591281,
+        "geo_point_2d2": 2.3843559,
+        "nom_site": "SQUARE LA PETITE ROQUETTE",
+        "code_site": "PARIS_WIFI_1115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3843559, 48.8591281]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 126,
+        "arrondissement": "75012",
+        "adresse": "70, RUE DE PICPUS",
+        "geo_point_2d1": 48.8425391,
+        "geo_point_2d2": 2.3975393,
+        "nom_site": "BIBLIOTHEQUE HELENE BERR - PICPUS 2",
+        "code_site": "PARIS_WIFI_1204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3975393, 48.8425391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 129,
+        "arrondissement": "75012",
+        "adresse": "19, RUE HENARD",
+        "geo_point_2d1": 48.8424496,
+        "geo_point_2d2": 2.3895619,
+        "nom_site": "CENTRE D'ANIMATION REUILLY",
+        "code_site": "PARIS_WIFI_1208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3895619, 48.8424496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 133,
+        "arrondissement": "75012",
+        "adresse": "20, BOULEVARD DE LA BASTILLE",
+        "geo_point_2d1": 48.8489152,
+        "geo_point_2d2": 2.3675864,
+        "nom_site": "JARDIN ARSENAL",
+        "code_site": "PARIS_WIFI_1212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3675864, 48.8489152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 135,
+        "arrondissement": "75012",
+        "adresse": "34, RUE DU RENDEZ VOUS",
+        "geo_point_2d1": 48.8465775,
+        "geo_point_2d2": 2.4040135,
+        "nom_site": "JARDIN CITE DEBERGUE",
+        "code_site": "PARIS_WIFI_1214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4040135, 48.8465775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 138,
+        "arrondissement": "75012",
+        "adresse": "1, COUR CHAMONARD",
+        "geo_point_2d1": 48.8336141,
+        "geo_point_2d2": 2.3848469,
+        "nom_site": "PARC DE BERCY (MAISON DU LAC)",
+        "code_site": "PARIS_WIFI_1217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3848469, 48.8336141]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 142,
+        "arrondissement": "75012",
+        "adresse": "ALLEE VIVALDI",
+        "geo_point_2d1": 48.8412482,
+        "geo_point_2d2": 2.3954325,
+        "nom_site": "PROMENADE PLANTEE",
+        "code_site": "PARIS_WIFI_1221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3954325, 48.8412482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 144,
+        "arrondissement": "75012",
+        "adresse": "RUE ROTTEMBOURG",
+        "geo_point_2d1": 48.8387416,
+        "geo_point_2d2": 2.4067488,
+        "nom_site": "SQUARE CHARLES PEGUY",
+        "code_site": "PARIS_WIFI_1223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4067488, 48.8387416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 145,
+        "arrondissement": "75012",
+        "adresse": "15, RUE SAINTE CLAIRE DEVILLE",
+        "geo_point_2d1": 48.8441923,
+        "geo_point_2d2": 2.3871087,
+        "nom_site": "SQUARE SAINT ELOI",
+        "code_site": "PARIS_WIFI_1224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3871087, 48.8441923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 159,
+        "arrondissement": "75013",
+        "adresse": "68, RUE DU MOULIN DE LA POINTE",
+        "geo_point_2d1": 48.8210608,
+        "geo_point_2d2": 2.356734,
+        "nom_site": "JARDIN MOULIN DE LA POINTE",
+        "code_site": "PARIS_WIFI_1312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.356734, 48.8210608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 176,
+        "arrondissement": "75013",
+        "adresse": "69, BOULEVARD ARAGO",
+        "geo_point_2d1": 48.8344435,
+        "geo_point_2d2": 2.3424344,
+        "nom_site": "SQUARE HENRI CADIOU",
+        "code_site": "PARIS_WIFI_1329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3424344, 48.8344435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 178,
+        "arrondissement": "75013",
+        "adresse": "43, RUE CORVISART",
+        "geo_point_2d1": 48.8316476,
+        "geo_point_2d2": 2.3485815,
+        "nom_site": "SQUARE RENE LEGALL",
+        "code_site": "PARIS_WIFI_1331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3485815, 48.8316476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 181,
+        "arrondissement": "75014",
+        "adresse": "38, RUE GASSENDI",
+        "geo_point_2d1": 48.8337637,
+        "geo_point_2d2": 2.3258377,
+        "nom_site": "BIBLIOTHEQUE GEORGES BRASSENS",
+        "code_site": "PARIS_WIFI_1401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3258377, 48.8337637]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 185,
+        "arrondissement": "75014",
+        "adresse": "13, RUE REMY DUMONCEL",
+        "geo_point_2d1": 48.8296812,
+        "geo_point_2d2": 2.332542,
+        "nom_site": "ESPACE ECONOMIE EMPLOI DU 14",
+        "code_site": "PARIS_WIFI_1405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.332542, 48.8296812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 193,
+        "arrondissement": "75014",
+        "adresse": "2, RUE GAZAN",
+        "geo_point_2d1": 48.8239627,
+        "geo_point_2d2": 2.3397562,
+        "nom_site": "PARC MONTSOURIS",
+        "code_site": "PARIS_WIFI_1413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3397562, 48.8239627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 195,
+        "arrondissement": "75014",
+        "adresse": "2, PLACE DENFERT ROCHEREAU",
+        "geo_point_2d1": 48.8343139,
+        "geo_point_2d2": 2.3313388,
+        "nom_site": "SQUARE CLAUDE NICOLAS LEDOUX",
+        "code_site": "PARIS_WIFI_1415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3313388, 48.8343139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 198,
+        "arrondissement": "75014",
+        "adresse": "RUE JULIA BARTET",
+        "geo_point_2d1": 48.8263216,
+        "geo_point_2d2": 2.3037064,
+        "nom_site": "SQUARE JULIA BARTET",
+        "code_site": "PARIS_WIFI_1418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3037064, 48.8263216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 199,
+        "arrondissement": "75014",
+        "adresse": "30, AVENUE ERNEST REYER",
+        "geo_point_2d1": 48.8221287,
+        "geo_point_2d2": 2.3234424,
+        "nom_site": "SQUARE SERMENT DE KOUFRA",
+        "code_site": "PARIS_WIFI_1419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3234424, 48.8221287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 200,
+        "arrondissement": "75015",
+        "adresse": "36, RUE EMERIAU",
+        "geo_point_2d1": 48.8502174,
+        "geo_point_2d2": 2.286557,
+        "nom_site": "BIBLIOTHEQUE ANDREE CHEDID - EX : BEAUGRENELLE",
+        "code_site": "PARIS_WIFI_1501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.286557, 48.8502174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 201,
+        "arrondissement": "75015",
+        "adresse": "8, RUE DE LA MONTAGNE D'AULAS",
+        "geo_point_2d1": 48.8402044,
+        "geo_point_2d2": 2.2786885,
+        "nom_site": "BIBLIOTHEQUE GUTENBERG",
+        "code_site": "PARIS_WIFI_1502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2786885, 48.8402044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 203,
+        "arrondissement": "75015",
+        "adresse": "41, RUE D ALLERAY",
+        "geo_point_2d1": 48.8369606,
+        "geo_point_2d2": 2.3036395,
+        "nom_site": "BIBLIOTHEQUE YOURCENAR",
+        "code_site": "PARIS_WIFI_1504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3036395, 48.8369606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 204,
+        "arrondissement": "75015",
+        "adresse": "41, RUE D ALLERAY",
+        "geo_point_2d1": 48.8368605,
+        "geo_point_2d2": 2.3035107,
+        "nom_site": "BIBLIOTHEQUE YOURCENAR",
+        "code_site": "PARIS_WIFI_1505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3035107, 48.8368605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 215,
+        "arrondissement": "75015",
+        "adresse": "23, ALLEE DE LA DEUXIEME DIVISION BLINDEE",
+        "geo_point_2d1": 48.8404958,
+        "geo_point_2d2": 2.3199732,
+        "nom_site": "MUSEE MEMORIAL MARECHAL LECLERC",
+        "code_site": "PARIS_WIFI_1516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3199732, 48.8404958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 221,
+        "arrondissement": "75015",
+        "adresse": "RUE DU CLOS FEUQUIERES",
+        "geo_point_2d1": 48.8370648,
+        "geo_point_2d2": 2.2907929,
+        "nom_site": "SQUARE CLOS FEUQUIERES",
+        "code_site": "PARIS_WIFI_1523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2907929, 48.8370648]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 228,
+        "arrondissement": "75016",
+        "adresse": "1, PLACE DU ONZE NOVEMBRE 1918",
+        "geo_point_2d1": 48.8626738,
+        "geo_point_2d2": 2.2890812,
+        "nom_site": "JARDIN DU TROCADERO",
+        "code_site": "PARIS_WIFI_1604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2890812, 48.8626738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 229,
+        "arrondissement": "75016",
+        "adresse": "1, PLACE DU ONZE NOVEMBRE 1918",
+        "geo_point_2d1": 48.8618069,
+        "geo_point_2d2": 2.2878069,
+        "nom_site": "JARDIN DU TROCADERO",
+        "code_site": "PARIS_WIFI_1605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2878069, 48.8618069]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 234,
+        "arrondissement": "75016",
+        "adresse": "11, AVENUE DU PRESIDENT WILSON",
+        "geo_point_2d1": 48.8647618,
+        "geo_point_2d2": 2.2975363,
+        "nom_site": "MUSEE D'ART MODERNE",
+        "code_site": "PARIS_WIFI_1610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2975363, 48.8647618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 237,
+        "arrondissement": "75016",
+        "adresse": "82, RUE GEORGES LAFFONT",
+        "geo_point_2d1": 48.8354957,
+        "geo_point_2d2": 2.255743,
+        "nom_site": "STADE COUBERTIN",
+        "code_site": "PARIS_WIFI_1614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.255743, 48.8354957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 239,
+        "arrondissement": "75016",
+        "adresse": "28, AVENUE DU GENERAL SARRAIL",
+        "geo_point_2d1": 48.8435567,
+        "geo_point_2d2": 2.2527458,
+        "nom_site": "Stade Jean Bouin",
+        "code_site": "PARIS_WIFI_1616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2527458, 48.8435567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 249,
+        "arrondissement": "75017",
+        "adresse": "32, RUE DE LA JONQUIERE",
+        "geo_point_2d1": 48.8940823,
+        "geo_point_2d2": 2.3245131,
+        "nom_site": "SQUARE DE LA VILLA ST-CROIX",
+        "code_site": "PARIS_WIFI_1710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3245131, 48.8940823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 250,
+        "arrondissement": "75017",
+        "adresse": "PLACE CHARLES FILLION",
+        "geo_point_2d1": 48.8881844,
+        "geo_point_2d2": 2.3158308,
+        "nom_site": "SQUARE DES BATIGNOLLES",
+        "code_site": "PARIS_WIFI_1711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3158308, 48.8881844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 251,
+        "arrondissement": "75017",
+        "adresse": "17, BOULEVARD DE REIMS",
+        "geo_point_2d1": 48.8890312,
+        "geo_point_2d2": 2.2977864,
+        "nom_site": "SQUARE ANDRE ULMANN",
+        "code_site": "PARIS_WIFI_1712"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2977864, 48.8890312]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 260,
+        "arrondissement": "75018",
+        "adresse": "1, PLACE JULES JOFFRIN",
+        "geo_point_2d1": 48.8923729,
+        "geo_point_2d2": 2.3446269,
+        "nom_site": "MAIRIE  18",
+        "code_site": "PARIS_WIFI_1807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3446269, 48.8923729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 262,
+        "arrondissement": "75018",
+        "adresse": "15, PASSAGE RAMEY",
+        "geo_point_2d1": 48.8900662,
+        "geo_point_2d2": 2.3473168,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 18",
+        "code_site": "PARIS_WIFI_1809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3473168, 48.8900662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 265,
+        "arrondissement": "75018",
+        "adresse": "25, RUE DES CLOYS",
+        "geo_point_2d1": 48.8925953,
+        "geo_point_2d2": 2.339135,
+        "nom_site": "SQUARE LEON SERPOLLET",
+        "code_site": "PARIS_WIFI_1812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.339135, 48.8925953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 266,
+        "arrondissement": "75018",
+        "adresse": "41, RUE LETORT",
+        "geo_point_2d1": 48.8961474,
+        "geo_point_2d2": 2.3427632,
+        "nom_site": "SQUARE SAINTE-HELENE",
+        "code_site": "PARIS_WIFI_1813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3427632, 48.8961474]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 269,
+        "arrondissement": "75019",
+        "adresse": "18, BOULEVARD SERURIER",
+        "geo_point_2d1": 48.8789311,
+        "geo_point_2d2": 2.4065768,
+        "nom_site": "ARCHIVES DE PARIS",
+        "code_site": "PARIS_WIFI_1901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4065768, 48.8789311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 271,
+        "arrondissement": "75019",
+        "adresse": "42, RUE PETIT",
+        "geo_point_2d1": 48.8849008,
+        "geo_point_2d2": 2.383102,
+        "nom_site": "BIBLIOTHEQUE CRIMEE",
+        "code_site": "PARIS_WIFI_1903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.383102, 48.8849008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 291,
+        "arrondissement": "75020",
+        "adresse": "94, BOULEVARD DAVOUT",
+        "geo_point_2d1": 48.8568713,
+        "geo_point_2d2": 2.410253,
+        "nom_site": "ANTENNE JEUNE DAVOUT",
+        "code_site": "PARIS_WIFI_2001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.410253, 48.8568713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 292,
+        "arrondissement": "75020",
+        "adresse": "66, RUE DES COURONNES",
+        "geo_point_2d1": 48.870136,
+        "geo_point_2d2": 2.3852419,
+        "nom_site": "BIBLIOTHEQUE COURONNES",
+        "code_site": "PARIS_WIFI_2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3852419, 48.870136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 293,
+        "arrondissement": "75020",
+        "adresse": "29, RUE DES HAIES",
+        "geo_point_2d1": 48.8532451,
+        "geo_point_2d2": 2.4011486,
+        "nom_site": "BIBLIOTHEQUE LOUISE MICHEL",
+        "code_site": "PARIS_WIFI_2003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4011486, 48.8532451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 298,
+        "arrondissement": "75020",
+        "adresse": "30, RUE LOUIS LUMIERE",
+        "geo_point_2d1": 48.8590675,
+        "geo_point_2d2": 2.4117583,
+        "nom_site": "CENTRE SPORTIF LOUIS LUMIERE",
+        "code_site": "PARIS_WIFI_2008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4117583, 48.8590675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 299,
+        "arrondissement": "75020",
+        "adresse": "20, RUE DES HAIES",
+        "geo_point_2d1": 48.8544516,
+        "geo_point_2d2": 2.4014188,
+        "nom_site": "JARDIN ZAC REUNION",
+        "code_site": "PARIS_WIFI_2009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4014188, 48.8544516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 304,
+        "arrondissement": "75020",
+        "adresse": "1, RUE FREDERICK LEMAITRE",
+        "geo_point_2d1": 48.8734926,
+        "geo_point_2d2": 2.3910034,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 20",
+        "code_site": "PARIS_WIFI_2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3910034, 48.8734926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 305,
+        "arrondissement": "75020",
+        "adresse": "31, RUE DE PIXERECOURT",
+        "geo_point_2d1": 48.871975,
+        "geo_point_2d2": 2.3957492,
+        "nom_site": "MAISON DU DEVELOPPEMENT ECONOMIQUE DU 20",
+        "code_site": "PARIS_WIFI_2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3957492, 48.871975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 309,
+        "arrondissement": "75020",
+        "adresse": "27, RUE PIAT",
+        "geo_point_2d1": 48.8717181,
+        "geo_point_2d2": 2.3849329,
+        "nom_site": "PARC DE BELLEVILLE (PARIS NATURE MAISON DE L'AIR)",
+        "code_site": "PARIS_WIFI_2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3849329, 48.8717181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 320,
+        "arrondissement": "75020",
+        "adresse": "13-15 rue Mouraud",
+        "geo_point_2d1": 48.8551678,
+        "geo_point_2d2": 2.4075483,
+        "nom_site": "CENTRE D'ANIMATION WANGARI MAATHAI",
+        "code_site": "PARIS_WIFI_2030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4075483, 48.8551678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 321,
+        "arrondissement": "75002",
+        "adresse": "2, PASSAGE DES PETITS PERES",
+        "geo_point_2d1": 48.8664567,
+        "geo_point_2d2": 2.3404857,
+        "nom_site": "BIBLIOTHEQUE CHARLOTTE DELBO",
+        "code_site": "PARIS_WIFI_0201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3404857, 48.8664567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 322,
+        "arrondissement": "75011",
+        "adresse": "8, RUE DU GENERAL RENAULT",
+        "geo_point_2d1": 48.8612633,
+        "geo_point_2d2": 2.3784836,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 11",
+        "code_site": "PARIS_WIFI_1109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3784836, 48.8612633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 5,
+        "arrondissement": "75001",
+        "adresse": "5BIS, RUE DU LOUVRE",
+        "geo_point_2d1": 48.8619291,
+        "geo_point_2d2": 2.3411986,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 01",
+        "code_site": "PARIS_WIFI_0106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3411986, 48.8619291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 6,
+        "arrondissement": "75001",
+        "adresse": "32 RUE BERGER",
+        "geo_point_2d1": 48.8625183,
+        "geo_point_2d2": 2.3445198,
+        "nom_site": "JARDIN NELSON MANDELA",
+        "code_site": "PARIS_WIFI_0107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3445198, 48.8625183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 7,
+        "arrondissement": "75002",
+        "adresse": "8, RUE DE LA BANQUE",
+        "geo_point_2d1": 48.8668792,
+        "geo_point_2d2": 2.3404266,
+        "nom_site": "MAIRIE  02",
+        "code_site": "PARIS_WIFI_0202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3404266, 48.8668792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 8,
+        "arrondissement": "75002",
+        "adresse": "23, RUE GRENETA",
+        "geo_point_2d1": 48.8651026,
+        "geo_point_2d2": 2.3504738,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 02",
+        "code_site": "PARIS_WIFI_0203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3504738, 48.8651026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 9,
+        "arrondissement": "75003",
+        "adresse": "8-12, RUE PORTEFOIN",
+        "geo_point_2d1": 48.8635984,
+        "geo_point_2d2": 2.3600696,
+        "nom_site": "BIBLIOTHEQUE MARGUERITE AUDOUX (ex PORTEFOIN)",
+        "code_site": "PARIS-WIFI_0301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3600696, 48.8635984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 18,
+        "arrondissement": "75004",
+        "adresse": "5, RUE DE LOBAU",
+        "geo_point_2d1": 48.8563131,
+        "geo_point_2d2": 2.3529416,
+        "nom_site": "BIBLIOTHEQUE ADMINISTRATIVE DE LA VILLE DE PARIS",
+        "code_site": "PARIS_WIFI_0402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3529416, 48.8563131]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 19,
+        "arrondissement": "75004",
+        "adresse": "1, RUE DU FIGUIER",
+        "geo_point_2d1": 48.8534259,
+        "geo_point_2d2": 2.3591198,
+        "nom_site": "BIBLIOTHEQUE FORNEY",
+        "code_site": "PARIS_WIFI_0403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3591198, 48.8534259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 22,
+        "arrondissement": "75004",
+        "adresse": "31, RUE DES FRANCS BOURGEOIS",
+        "geo_point_2d1": 48.8575449,
+        "geo_point_2d2": 2.3608893,
+        "nom_site": "HOTEL D ALBRET",
+        "code_site": "PARIS_WIFI_0408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3608893, 48.8575449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 28,
+        "arrondissement": "75004",
+        "adresse": "2, PLACE BAUDOYER",
+        "geo_point_2d1": 48.8561904,
+        "geo_point_2d2": 2.3556294,
+        "nom_site": "MAIRIE  04 - BIBLIOTHEQUE ARTHUR RIMBAUD (ex BIBLIOTHEQUE BAUDOYER)",
+        "code_site": "PARIS_WIFI_0414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3556294, 48.8561904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 36,
+        "arrondissement": "75004",
+        "adresse": "RUE DU CLOITRE NOTRE DAME",
+        "geo_point_2d1": 48.8523606,
+        "geo_point_2d2": 2.3508338,
+        "nom_site": "SQUARE JEAN XXIII",
+        "code_site": "PARIS_WIFI_0422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3508338, 48.8523606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 37,
+        "arrondissement": "75004",
+        "adresse": "30 PLACE DES VOSGES",
+        "geo_point_2d1": 48.8560301,
+        "geo_point_2d2": 2.3659475,
+        "nom_site": "SQUARE LOUIS XIII",
+        "code_site": "PARIS_WIFI_0423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3659475, 48.8560301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 39,
+        "arrondissement": "75004",
+        "adresse": "21, rue des Blancs Manteaux",
+        "geo_point_2d1": 48.8590468,
+        "geo_point_2d2": 2.3568737,
+        "nom_site": "MAISON DES ACTEURS DU PARIS DURABLE",
+        "code_site": "PARIS_WIFI_0425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3568737, 48.8590468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 42,
+        "arrondissement": "75005",
+        "adresse": "15 BIS, RUE BUFFON",
+        "geo_point_2d1": 48.8426081,
+        "geo_point_2d2": 2.3618,
+        "nom_site": "BIBLIOTHEQUE BUFFON",
+        "code_site": "PARIS_WIFI_0501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3618, 48.8426081]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 43,
+        "arrondissement": "75005",
+        "adresse": "48, RUE DU CARDINAL LEMOINE",
+        "geo_point_2d1": 48.846365,
+        "geo_point_2d2": 2.351078,
+        "nom_site": "BIBLIOTHEQUE DES LITTERATURES POLICIERES  (Bilipo)",
+        "code_site": "PARIS_WIFI_0502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.351078, 48.846365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 54,
+        "arrondissement": "75006",
+        "adresse": "78, RUE BONAPARTE",
+        "geo_point_2d1": 48.8505336,
+        "geo_point_2d2": 2.3325929,
+        "nom_site": "MAIRIE  06",
+        "code_site": "PARIS_WIFI_0602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3325929, 48.8505336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 60,
+        "arrondissement": "75007",
+        "adresse": "1, RUE PAUL",
+        "geo_point_2d1": 48.8619652,
+        "geo_point_2d2": 2.3126978,
+        "nom_site": "ESPLANADE DES INVALIDES",
+        "code_site": "PARIS_WIFI_0703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3126978, 48.8619652]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 61,
+        "arrondissement": "75007",
+        "adresse": "33, RUE DE BABYLONE",
+        "geo_point_2d1": 48.8514242,
+        "geo_point_2d2": 2.3204925,
+        "nom_site": "JARDIN CATHERINE LABOURE",
+        "code_site": "PARIS_WIFI_0704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3204925, 48.8514242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 62,
+        "arrondissement": "75007",
+        "adresse": "116, RUE DE GRENELLE",
+        "geo_point_2d1": 48.8567894,
+        "geo_point_2d2": 2.3202216,
+        "nom_site": "MAIRIE  07",
+        "code_site": "PARIS_WIFI_0705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3202216, 48.8567894]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 63,
+        "arrondissement": "75007",
+        "adresse": "93, RUE SAINT DOMINIQUE",
+        "geo_point_2d1": 48.8595671,
+        "geo_point_2d2": 2.3072082,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 07",
+        "code_site": "PARIS_WIFI_0706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3072082, 48.8595671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 64,
+        "arrondissement": "75007",
+        "adresse": "AVENUE CHARLES RISLER",
+        "geo_point_2d1": 48.8547369,
+        "geo_point_2d2": 2.3014532,
+        "nom_site": "PARC CHAMPS DE MARS",
+        "code_site": "PARIS_WIFI_0708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3014532, 48.8547369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 66,
+        "arrondissement": "75007",
+        "adresse": "PORT DE SOLFERINO",
+        "geo_point_2d1": 48.860916,
+        "geo_point_2d2": 2.3259634,
+        "nom_site": "BERGES DE SEINE - EMMARCHEMENT",
+        "code_site": "PARIS_WIFI_0709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3259634, 48.860916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 67,
+        "arrondissement": "75007",
+        "adresse": "PORT DU GROS CAILLOU",
+        "geo_point_2d1": 48.8630023,
+        "geo_point_2d2": 2.304719,
+        "nom_site": "BERGES DE SEINE - JARDIN FLOTTANT",
+        "code_site": "PARIS_WIFI_0710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.304719, 48.8630023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 78,
+        "arrondissement": "75008",
+        "adresse": "1, PLACE DE LA REPUBLIQUE DOMINICAINE",
+        "geo_point_2d1": 48.8789463,
+        "geo_point_2d2": 2.3084183,
+        "nom_site": "PARC MONCEAU (ALLEE CONTESSE DE SEGUR)",
+        "code_site": "PARIS_WIFI_0810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3084183, 48.8789463]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 83,
+        "arrondissement": "75009",
+        "adresse": "11, RUE DROUOT",
+        "geo_point_2d1": 48.8733771,
+        "geo_point_2d2": 2.340515,
+        "nom_site": "BIBLIOTHEQUE DROUOT",
+        "code_site": "PARIS_WIFI_0903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.340515, 48.8733771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 96,
+        "arrondissement": "75010",
+        "adresse": "8, RUE DES RECOLLETS",
+        "geo_point_2d1": 48.8749779,
+        "geo_point_2d2": 2.3611107,
+        "nom_site": "JARDIN VILLEMIN",
+        "code_site": "PARIS_WIFI_1006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3611107, 48.8749779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 106,
+        "arrondissement": "75010",
+        "adresse": "9 RUE LEON SCHWARTZENBERG",
+        "geo_point_2d1": 48.875722,
+        "geo_point_2d2": 2.3538435,
+        "nom_site": "MEDIATHEQUE FRANCOISE SAGAN",
+        "code_site": "PARIS_WIFI_1016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3538435, 48.875722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 114,
+        "arrondissement": "75011",
+        "adresse": "PLACE LEON BLUM",
+        "geo_point_2d1": 48.8584983,
+        "geo_point_2d2": 2.379502,
+        "nom_site": "MAIRIE  11",
+        "code_site": "PARIS_WIFI_1108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.379502, 48.8584983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 119,
+        "arrondissement": "75011",
+        "adresse": "2 PASSAGE DUMAS",
+        "geo_point_2d1": 48.8520647,
+        "geo_point_2d2": 2.3905001,
+        "nom_site": "SQUARE DES JARDINIERS",
+        "code_site": "PARIS_WIFI_1113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3905001, 48.8520647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 125,
+        "arrondissement": "75012",
+        "adresse": "42, RUE DAUMESNIL",
+        "geo_point_2d1": 48.8459888,
+        "geo_point_2d2": 2.377784,
+        "nom_site": "BIBLIOTHEQUE DIDEROT",
+        "code_site": "PARIS_WIFI_1203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.377784, 48.8459888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 128,
+        "arrondissement": "75012",
+        "adresse": "4, PASSAGE STINVILLE",
+        "geo_point_2d1": 48.8441339,
+        "geo_point_2d2": 2.3885138,
+        "nom_site": "CENTRE D'ANIMATION MONTGALLET",
+        "code_site": "PARIS_WIFI_1207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3885138, 48.8441339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 131,
+        "arrondissement": "75012",
+        "adresse": "227, RUE DE BERCY",
+        "geo_point_2d1": 48.8465186,
+        "geo_point_2d2": 2.3697065,
+        "nom_site": "DSTI",
+        "code_site": "PARIS_WIFI_1210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3697065, 48.8465186]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 143,
+        "arrondissement": "75012",
+        "adresse": "34, BOULEVARD CARNOT",
+        "geo_point_2d1": 48.8418973,
+        "geo_point_2d2": 2.4126261,
+        "nom_site": "SOLARIUM ROGER LE GALL",
+        "code_site": "PARIS_WIFI_1222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4126261, 48.8418973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 157,
+        "arrondissement": "75013",
+        "adresse": "36, RUE DU CHEVALERET",
+        "geo_point_2d1": 48.8281148,
+        "geo_point_2d2": 2.3775075,
+        "nom_site": "JARDIN CYPRIAN NORWID",
+        "code_site": "PARIS_WIFI_1310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3775075, 48.8281148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 165,
+        "arrondissement": "75013",
+        "adresse": "15, RUE JEAN ANTOINE DE BAIF",
+        "geo_point_2d1": 48.8268171,
+        "geo_point_2d2": 2.3837176,
+        "nom_site": "MAISON DES INITIATIVES ETUDIANTES",
+        "code_site": "PARIS_WIFI_1318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3837176, 48.8268171]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 177,
+        "arrondissement": "75013",
+        "adresse": "79,  BOULEVARD KELLERMANN",
+        "geo_point_2d1": 48.819391,
+        "geo_point_2d2": 2.3478922,
+        "nom_site": "SQUARE JEAN CLAUDE NICOLAS FORESTIER",
+        "code_site": "PARIS_WIFI_1330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3478922, 48.819391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 182,
+        "arrondissement": "75014",
+        "adresse": "3, RUE DE RIDDER",
+        "geo_point_2d1": 48.8311882,
+        "geo_point_2d2": 2.3118052,
+        "nom_site": "BIBLIOTHEQUE PLAISANCE (AIME CESAIRE)",
+        "code_site": "PARIS_WIFI_1402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3118052, 48.8311882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 183,
+        "arrondissement": "75014",
+        "adresse": "80, AVENUE DU MAINE",
+        "geo_point_2d1": 48.8389903,
+        "geo_point_2d2": 2.3218274,
+        "nom_site": "BIBLIOTHEQUE VANDAMME",
+        "code_site": "PARIS_WIFI_1403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3218274, 48.8389903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 186,
+        "arrondissement": "75014",
+        "adresse": "21, AVENUE DE LA PORTE DE CHÃ„TILLON",
+        "geo_point_2d1": 48.8229081,
+        "geo_point_2d2": 2.3158355,
+        "nom_site": "INSTITUT DU JUDO",
+        "code_site": "PARIS_WIFI_1406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3158355, 48.8229081]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 211,
+        "arrondissement": "75015",
+        "adresse": "31, RUE PECLET",
+        "geo_point_2d1": 48.8412822,
+        "geo_point_2d2": 2.2999588,
+        "nom_site": "MAIRIE  15",
+        "code_site": "PARIS_WIFI_1512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2999588, 48.8412822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 212,
+        "arrondissement": "75015",
+        "adresse": "69, RUE VIOLET",
+        "geo_point_2d1": 48.8456077,
+        "geo_point_2d2": 2.2914066,
+        "nom_site": "MAISON COMMUNALE",
+        "code_site": "PARIS_WIFI_1513"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2914066, 48.8456077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 213,
+        "arrondissement": "75015",
+        "adresse": "26, RUE DE LA SAIDA",
+        "geo_point_2d1": 48.831667,
+        "geo_point_2d2": 2.2961778,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 15",
+        "code_site": "PARIS_WIFI_1514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2961778, 48.831667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 220,
+        "arrondissement": "75015",
+        "adresse": "RUE BLOMET",
+        "geo_point_2d1": 48.8422165,
+        "geo_point_2d2": 2.305235,
+        "nom_site": "SQUARE RUE BLOMET",
+        "code_site": "PARIS_WIFI_1522"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.305235, 48.8422165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 225,
+        "arrondissement": "75016",
+        "adresse": "20, RUE DE MUSSET",
+        "geo_point_2d1": 48.842079,
+        "geo_point_2d2": 2.2635219,
+        "nom_site": "BIBLIOTHEQUE MUSSET",
+        "code_site": "PARIS_WIFI_1601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2635219, 48.842079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 226,
+        "arrondissement": "75016",
+        "adresse": "2, RUE DU COMMANDANT SCHLOESING",
+        "geo_point_2d1": 48.8618888,
+        "geo_point_2d2": 2.2849707,
+        "nom_site": "BIBLIOTHEQUE GERMAINE TILLION (EX : TROCADERO)",
+        "code_site": "PARIS_WIFI_1602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2849707, 48.8618888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 236,
+        "arrondissement": "75016",
+        "adresse": "BOULEVARD THIERRY DE MARTEL",
+        "geo_point_2d1": 48.8763653,
+        "geo_point_2d2": 2.2808972,
+        "nom_site": "SQUARE ALEXANDRE ET RENE PARODI",
+        "code_site": "PARIS_WIFI_1612"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2808972, 48.8763653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 240,
+        "arrondissement": "75017",
+        "adresse": "18, RUE DES BATIGNOLLES",
+        "geo_point_2d1": 48.8843377,
+        "geo_point_2d2": 2.3220752,
+        "nom_site": "BIBLIOTHEQUE BATIGNOLLES",
+        "code_site": "PARIS_WIFI_1701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3220752, 48.8843377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 243,
+        "arrondissement": "75017",
+        "adresse": "88, RUE LA JONQUIERE",
+        "geo_point_2d1": 48.8947445,
+        "geo_point_2d2": 2.3190615,
+        "nom_site": "CENTRE CULTUREL LA JONQUIERE",
+        "code_site": "PARIS_WIFI_1704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3190615, 48.8947445]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 254,
+        "arrondissement": "75018",
+        "adresse": "29, RUE HERMEL",
+        "geo_point_2d1": 48.891625,
+        "geo_point_2d2": 2.3444734,
+        "nom_site": "BIBLIOTHEQUE ROBERT SABATIER (EX : CLIGNANCOURT)",
+        "code_site": "PARIS_WIFI_1801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3444734, 48.891625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 261,
+        "arrondissement": "75018",
+        "adresse": "164, RUE ORDENER",
+        "geo_point_2d1": 48.8938297,
+        "geo_point_2d2": 2.3355073,
+        "nom_site": "MAISON DE L'EMPLOI DU 18",
+        "code_site": "PARIS_WIFI_1808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3355073, 48.8938297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 267,
+        "arrondissement": "75018",
+        "adresse": "7, RUE GIRARDON",
+        "geo_point_2d1": 48.8881441,
+        "geo_point_2d2": 2.337639,
+        "nom_site": "SQUARE SUZANNE BUISSON",
+        "code_site": "PARIS_WIFI_1814"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.337639, 48.8881441]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 279,
+        "arrondissement": "75019",
+        "adresse": "20, RUE EDOUARD PAILLERON",
+        "geo_point_2d1": 48.8804358,
+        "geo_point_2d2": 2.3765502,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 19",
+        "code_site": "PARIS_WIFI_1911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3765502, 48.8804358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 289,
+        "arrondissement": "75019",
+        "adresse": "1 BIS, RUE DE LA MARSEILLAISE",
+        "geo_point_2d1": 48.8879523,
+        "geo_point_2d2": 2.397323,
+        "nom_site": "SQUARE DE LA MARSEILLAISE",
+        "code_site": "PARIS_WIFI_1921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.397323, 48.8879523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 290,
+        "arrondissement": "75019",
+        "adresse": "2, RUE PIERRE REVERDY",
+        "geo_point_2d1": 48.8856266,
+        "geo_point_2d2": 2.3772594,
+        "nom_site": "SQUARE MARCEL MOULOUDJI (ANCIEN LOIRE JAURES)",
+        "code_site": "PARIS_WIFI_1922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3772594, 48.8856266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 296,
+        "arrondissement": "75020",
+        "adresse": "121, RUE DE MESNILMONTANT",
+        "geo_point_2d1": 48.8699454,
+        "geo_point_2d2": 2.3941144,
+        "nom_site": "CARRE BAUDOUIN",
+        "code_site": "PARIS_WIFI_2006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3941144, 48.8699454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 297,
+        "arrondissement": "75020",
+        "adresse": "46, RUE LOUIS LUMIERE",
+        "geo_point_2d1": 48.8604025,
+        "geo_point_2d2": 2.4115247,
+        "nom_site": "CENTRE D'ANIMATION LOUIS LUMIERE",
+        "code_site": "PARIS_WIFI_2007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4115247, 48.8604025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 302,
+        "arrondissement": "75020",
+        "adresse": "148, RUE DE BAGNOLET",
+        "geo_point_2d1": 48.8619526,
+        "geo_point_2d2": 2.4068673,
+        "nom_site": "JARDIN HOSPICE DEBROUSSE",
+        "code_site": "PARIS_WIFI_2012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4068673, 48.8619526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 308,
+        "arrondissement": "75020",
+        "adresse": "45, RUE DES COURONNES",
+        "geo_point_2d1": 48.8705722,
+        "geo_point_2d2": 2.3848334,
+        "nom_site": "PARC DE BELLEVILLE",
+        "code_site": "PARIS_WIFI_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3848334, 48.8705722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 311,
+        "arrondissement": "75020",
+        "adresse": "128, RUE DE BAGNOLET",
+        "geo_point_2d1": 48.860509,
+        "geo_point_2d2": 2.4051577,
+        "nom_site": "SQUARE ANTOINE BLONDIN (ANCIEN VILLAGE CHARONNE)",
+        "code_site": "PARIS_WIFI_2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4051577, 48.860509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 318,
+        "arrondissement": "75020",
+        "adresse": "109-115, RUE DE BAGNOLET",
+        "geo_point_2d1": 48.8601696,
+        "geo_point_2d2": 2.4027689,
+        "nom_site": "MEDIATHEQUE MARGUERITE DURAS",
+        "code_site": "PARIS_WIFI_2028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4027689, 48.8601696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 300,
+        "arrondissement": "75020",
+        "adresse": "RUE DES CENDRIERS",
+        "geo_point_2d1": 48.8658869,
+        "geo_point_2d2": 2.3878003,
+        "nom_site": "JARDIN DES AMANDIERS",
+        "code_site": "PARIS_WIFI_2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3878003, 48.8658869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 307,
+        "arrondissement": "75020",
+        "adresse": "45, RUE DES COURONNES",
+        "geo_point_2d1": 48.8712666,
+        "geo_point_2d2": 2.384166,
+        "nom_site": "PARC DE BELLEVILLE",
+        "code_site": "PARIS_WIFI_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.384166, 48.8712666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 310,
+        "arrondissement": "75020",
+        "adresse": "148, AVENUE GAMBETTA",
+        "geo_point_2d1": 48.8753755,
+        "geo_point_2d2": 2.4061732,
+        "nom_site": "PISCINE GEORGES VALLEREY",
+        "code_site": "PARIS_WIFI_2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4061732, 48.8753755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 16,
+        "arrondissement": "75003",
+        "adresse": "13-13 BIS, RUE PAYENNE",
+        "geo_point_2d1": 48.8581883,
+        "geo_point_2d2": 2.3634578,
+        "nom_site": "SQUARE LEOPOLD ACHILLE",
+        "code_site": "PARIS-WIFI_0308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3634578, 48.8581883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 31,
+        "arrondissement": "75004",
+        "adresse": "9, PLACE DE L'HOTEL DE VILLE",
+        "geo_point_2d1": 48.8572541,
+        "geo_point_2d2": 2.3512034,
+        "nom_site": "PARVIS DE L'HOTEL DE VILLE (9, PLACE)",
+        "code_site": "PARIS_WIFI_0417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3512034, 48.8572541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 32,
+        "arrondissement": "75004",
+        "adresse": "4, PLACE DE L'HOTEL DE VILLE",
+        "geo_point_2d1": 48.8566041,
+        "geo_point_2d2": 2.3520191,
+        "nom_site": "PARVIS DE L'HOTEL DE VILLE (RIVOLI)",
+        "code_site": "PARIS_WIFI_0418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3520191, 48.8566041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 44,
+        "arrondissement": "75005",
+        "adresse": "6, RUE DES PRETRES SAINT SEVERIN",
+        "geo_point_2d1": 48.8519753,
+        "geo_point_2d2": 2.3450542,
+        "nom_site": "BIBLIOTHEQUE HEURE JOYEUSE",
+        "code_site": "PARIS_WIFI_0503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3450542, 48.8519753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 53,
+        "arrondissement": "75006",
+        "adresse": "78, BOULEVARD RASPAIL",
+        "geo_point_2d1": 48.8481068,
+        "geo_point_2d2": 2.3275759,
+        "nom_site": "BIBLIOTHEQUE ANDRE MALRAUX",
+        "code_site": "PARIS_WIFI_0601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3275759, 48.8481068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 56,
+        "arrondissement": "75006",
+        "adresse": "168 BIS, BOULEVARD SAINT GERMAIN",
+        "geo_point_2d1": 48.853843,
+        "geo_point_2d2": 2.3342359,
+        "nom_site": "SQUARE FELIX DESRUELLES",
+        "code_site": "PARIS_WIFI_0604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3342359, 48.853843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 68,
+        "arrondissement": "75007",
+        "adresse": "PORT DE SOLFERINO",
+        "geo_point_2d1": 48.8618172,
+        "geo_point_2d2": 2.3224396,
+        "nom_site": "BERGES DE SEINE - LA HALLE",
+        "code_site": "PARIS_WIFI_0711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3224396, 48.8618172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 74,
+        "arrondissement": "75008",
+        "adresse": "28, RUE LAURE DIEBOLD",
+        "geo_point_2d1": 48.8760261,
+        "geo_point_2d2": 2.3047665,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 08",
+        "code_site": "PARIS_WIFI_0806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3047665, 48.8760261]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 76,
+        "arrondissement": "75008",
+        "adresse": "1, AVENUE DUTUIT",
+        "geo_point_2d1": 48.8660593,
+        "geo_point_2d2": 2.3143287,
+        "nom_site": "MUSEE DU PETIT PALAIS",
+        "code_site": "PARIS_WIFI_0808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3143287, 48.8660593]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 81,
+        "arrondissement": "75009",
+        "adresse": "35, RUE VICTOR MASSE",
+        "geo_point_2d1": 48.8809864,
+        "geo_point_2d2": 2.3370079,
+        "nom_site": "ANNEXE MAISON DES ASSOCIATIONS 09",
+        "code_site": "PARIS_WIFI_0901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3370079, 48.8809864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 90,
+        "arrondissement": "75009",
+        "adresse": "14-18 rue de la Tour des Dames",
+        "geo_point_2d1": 48.8777899,
+        "geo_point_2d2": 2.3327362,
+        "nom_site": "CENTRE D'ANIMATION TOUR DES DAMES",
+        "code_site": "PARIS_WIFI_0910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3327362, 48.8777899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 97,
+        "arrondissement": "75010",
+        "adresse": "72, RUE DU FAUBOURG SAINT MARTIN",
+        "geo_point_2d1": 48.871892,
+        "geo_point_2d2": 2.3574155,
+        "nom_site": "MAIRIE 10",
+        "code_site": "PARIS_WIFI_1007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3574155, 48.871892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 99,
+        "arrondissement": "75010",
+        "adresse": "209, RUE LAFAYETTE",
+        "geo_point_2d1": 48.8812845,
+        "geo_point_2d2": 2.3640969,
+        "nom_site": "MAISON DES ENTREPRISES ET DE L' EMPLOI",
+        "code_site": "PARIS_WIFI_1009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3640969, 48.8812845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 101,
+        "arrondissement": "75010",
+        "adresse": "17, RUE BOY ZELENSKI",
+        "geo_point_2d1": 48.8774489,
+        "geo_point_2d2": 2.3682858,
+        "nom_site": "SQUARE AMADOU HAMPATE BA",
+        "code_site": "PARIS_WIFI_1011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3682858, 48.8774489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 110,
+        "arrondissement": "75011",
+        "adresse": "102, BOULEVARD RICHARD LENOIR",
+        "geo_point_2d1": 48.8633418,
+        "geo_point_2d2": 2.3716399,
+        "nom_site": "JARDIN BATACLAN",
+        "code_site": "PARIS_WIFI_1104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3716399, 48.8633418]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 112,
+        "arrondissement": "75011",
+        "adresse": "PASSAGE DU BUREAU",
+        "geo_point_2d1": 48.8548516,
+        "geo_point_2d2": 2.3940183,
+        "nom_site": "JARDIN DAMIA (ex ZAC DORIAN)",
+        "code_site": "PARIS_WIFI_1106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3940183, 48.8548516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 122,
+        "arrondissement": "75011",
+        "adresse": "19 BIS, RUE DE L ORILLON",
+        "geo_point_2d1": 48.8700322,
+        "geo_point_2d2": 2.3751248,
+        "nom_site": "SQUARE ORILLON JULES VERNES",
+        "code_site": "PARIS_WIFI_1117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3751248, 48.8700322]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 124,
+        "arrondissement": "75012",
+        "adresse": "13, RUE HENARD",
+        "geo_point_2d1": 48.8420311,
+        "geo_point_2d2": 2.3892175,
+        "nom_site": "ALLEE VIVALDI",
+        "code_site": "PARIS_WIFI_1202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3892175, 48.8420311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 127,
+        "arrondissement": "75012",
+        "adresse": "23, RUE DU COLONEL ROZANOFF",
+        "geo_point_2d1": 48.8455266,
+        "geo_point_2d2": 2.3870921,
+        "nom_site": "BIBLIOTHEQUE SAINT ELOI",
+        "code_site": "PARIS_WIFI_1206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3870921, 48.8455266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 130,
+        "arrondissement": "75012",
+        "adresse": "6, AVENUE MAURICE RAVEL",
+        "geo_point_2d1": 48.842308,
+        "geo_point_2d2": 2.4116407,
+        "nom_site": "CENTRE D'HEBERGEMENT MAURICE RAVEL",
+        "code_site": "PARIS_WIFI_1209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4116407, 48.842308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 134,
+        "arrondissement": "75012",
+        "adresse": "1, RUE ALBINONI",
+        "geo_point_2d1": 48.8428031,
+        "geo_point_2d2": 2.3882525,
+        "nom_site": "JARDIN DE REUILLY",
+        "code_site": "PARIS_WIFI_1213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3882525, 48.8428031]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 137,
+        "arrondissement": "75012",
+        "adresse": "181, AVENUE DAUMESNIL",
+        "geo_point_2d1": 48.8404983,
+        "geo_point_2d2": 2.3924024,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 12",
+        "code_site": "PARIS_WIFI_1216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3924024, 48.8404983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 148,
+        "arrondissement": "75013",
+        "adresse": "132, RUE DE LA GLACIERE",
+        "geo_point_2d1": 48.8273153,
+        "geo_point_2d2": 2.3419753,
+        "nom_site": "BIBLIOTHEQUE GLACIERE - MARINA TSVETAIEVA",
+        "code_site": "PARIS_WIFI_1301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3419753, 48.8273153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 155,
+        "arrondissement": "75013",
+        "adresse": "81, BOULEVARD MASSENA",
+        "geo_point_2d1": 48.8201115,
+        "geo_point_2d2": 2.3702227,
+        "nom_site": "Centre Sportif Georges Carpentier Tennis de Table",
+        "code_site": "PARIS_WIFI_1308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3702227, 48.8201115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 156,
+        "arrondissement": "75013",
+        "adresse": "RUE DU CHATEAU DES RENTIERS",
+        "geo_point_2d1": 48.8253806,
+        "geo_point_2d2": 2.369431,
+        "nom_site": "JARDIN CHATEAU DES RENTIERS",
+        "code_site": "PARIS_WIFI_1309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.369431, 48.8253806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 160,
+        "arrondissement": "75013",
+        "adresse": "RUE GEORGES BALANCHINE",
+        "geo_point_2d1": 48.8362775,
+        "geo_point_2d2": 2.3737572,
+        "nom_site": "JARDIN JAMES JOYCE",
+        "code_site": "PARIS_WIFI_1313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3737572, 48.8362775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 166,
+        "arrondissement": "75013",
+        "adresse": "160, AVENUE DE CHOISY",
+        "geo_point_2d1": 48.8274462,
+        "geo_point_2d2": 2.3608019,
+        "nom_site": "PARC DE CHOISY",
+        "code_site": "PARIS_WIFI_1319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3608019, 48.8274462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 171,
+        "arrondissement": "75013",
+        "adresse": "20, RUE DE LA FONTAINE A MULARD",
+        "geo_point_2d1": 48.8230234,
+        "geo_point_2d2": 2.3485048,
+        "nom_site": "SQUARE PAUL GRIMAULT (ex FONTAINE A MULARD)",
+        "code_site": "PARIS_WIFI_1324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3485048, 48.8230234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 184,
+        "arrondissement": "75014",
+        "adresse": "40, RUE DIDOT",
+        "geo_point_2d1": 48.8315428,
+        "geo_point_2d2": 2.3198453,
+        "nom_site": "CONSEIL DE LA JEUNESSE",
+        "code_site": "PARIS_WIFI_1404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3198453, 48.8315428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 190,
+        "arrondissement": "75014",
+        "adresse": "22, RUE DEPARCIEUX",
+        "geo_point_2d1": 48.8355888,
+        "geo_point_2d2": 2.3258031,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 14",
+        "code_site": "PARIS_WIFI_1410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3258031, 48.8355888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 197,
+        "arrondissement": "75014",
+        "adresse": "PLACE FERDINAND BRUNOT",
+        "geo_point_2d1": 48.8323155,
+        "geo_point_2d2": 2.3268491,
+        "nom_site": "SQUARE FERDINAND BRUNOT",
+        "code_site": "PARIS_WIFI_1417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3268491, 48.8323155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 207,
+        "arrondissement": "75015",
+        "adresse": "2, RUE LOUIS ARMAND",
+        "geo_point_2d1": 48.8324795,
+        "geo_point_2d2": 2.2756945,
+        "nom_site": "CENTRE SPORTIF SUZANNE LENGLEN (ENTREE)",
+        "code_site": "PARIS_WIFI_1508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2756945, 48.8324795]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 217,
+        "arrondissement": "75015",
+        "adresse": "2, PLACE JACQUES MARETTE",
+        "geo_point_2d1": 48.8316213,
+        "geo_point_2d2": 2.2999365,
+        "nom_site": "PARC GEORGES BRASSENS (ENTREE)",
+        "code_site": "PARIS_WIFI_1519"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2999365, 48.8316213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 218,
+        "arrondissement": "75015",
+        "adresse": "2, PLACE JACQUES MARETTE",
+        "geo_point_2d1": 48.8324392,
+        "geo_point_2d2": 2.3002021,
+        "nom_site": "PARC GEORGES BRASSENS (ROTONDE)",
+        "code_site": "PARIS_WIFI_1520"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3002021, 48.8324392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 219,
+        "arrondissement": "75015",
+        "adresse": "92, RUE D'ALLERAY",
+        "geo_point_2d1": 48.8358746,
+        "geo_point_2d2": 2.3085974,
+        "nom_site": "SQUARE ALLERAY LABROUSTE",
+        "code_site": "PARIS_WIFI_1521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3085974, 48.8358746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 223,
+        "arrondissement": "75015",
+        "adresse": "1, RUE THEOPHRASTE  RENAUDOT",
+        "geo_point_2d1": 48.8425017,
+        "geo_point_2d2": 2.2977095,
+        "nom_site": "SQUARE SAINT LAMBERT",
+        "code_site": "PARIS_WIFI_1525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2977095, 48.8425017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 231,
+        "arrondissement": "75016",
+        "adresse": "71, AVENUE HENRI MARTIN",
+        "geo_point_2d1": 48.8639468,
+        "geo_point_2d2": 2.2766024,
+        "nom_site": "MAIRIE  16",
+        "code_site": "PARIS_WIFI_1607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2766024, 48.8639468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 241,
+        "arrondissement": "75017",
+        "adresse": "6, RUE FOURNEYRON",
+        "geo_point_2d1": 48.889796,
+        "geo_point_2d2": 2.3195717,
+        "nom_site": "BIBLIOTHEQUE BROCHANT (COLETTE VIVIER)",
+        "code_site": "PARIS_WIFI_1702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3195717, 48.889796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 245,
+        "arrondissement": "75017",
+        "adresse": "16-20, RUE DES BATIGNOLLES",
+        "geo_point_2d1": 48.8844907,
+        "geo_point_2d2": 2.3218158,
+        "nom_site": "MAIRIE  17",
+        "code_site": "PARIS_WIFI_1706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3218158, 48.8844907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 246,
+        "arrondissement": "75017",
+        "adresse": "25, RUE LANTIEZ",
+        "geo_point_2d1": 48.8950276,
+        "geo_point_2d2": 2.3237328,
+        "nom_site": "MAISON DES ASSOCIATIONS DU 17",
+        "code_site": "PARIS_WIFI_1707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3237328, 48.8950276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 248,
+        "arrondissement": "75017",
+        "adresse": "RUE MARIA DERAISMES",
+        "geo_point_2d1": 48.8949269,
+        "geo_point_2d2": 2.3268951,
+        "nom_site": "SQUARE DES EPINETTES",
+        "code_site": "PARIS_WIFI_1709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3268951, 48.8949269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 256,
+        "arrondissement": "75018",
+        "adresse": "19, RUE TRISTAN TZARA",
+        "geo_point_2d1": 48.8949881,
+        "geo_point_2d2": 2.363792,
+        "nom_site": "BIBLIOTHEQUE MAURICE GENEVOIX",
+        "code_site": "PARIS_WIFI_1803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.363792, 48.8949881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 257,
+        "arrondissement": "75018",
+        "adresse": "16, AVENUE DE LA PORTE DE MONTMARTRE (BINET)",
+        "geo_point_2d1": 48.8997726,
+        "geo_point_2d2": 2.33623,
+        "nom_site": "BIBLIOTHEQUE JACQUELINE DE ROMILLY",
+        "code_site": "PARIS_WIFI_1804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.33623, 48.8997726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 259,
+        "arrondissement": "75018",
+        "adresse": "18 BIS RUE DU DEPARTEMENT",
+        "geo_point_2d1": 48.8865055,
+        "geo_point_2d2": 2.366169,
+        "nom_site": "JARDIN D EOLE",
+        "code_site": "PARIS_WIFI_1806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.366169, 48.8865055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 264,
+        "arrondissement": "75018",
+        "adresse": "PASSAGE LEON",
+        "geo_point_2d1": 48.8863399,
+        "geo_point_2d2": 2.3536544,
+        "nom_site": "SQUARE LEON",
+        "code_site": "PARIS_WIFI_1811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3536544, 48.8863399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 273,
+        "arrondissement": "75019",
+        "adresse": "35, AVENUE DE FLANDRE",
+        "geo_point_2d1": 48.8866811,
+        "geo_point_2d2": 2.3713745,
+        "nom_site": "BIBLIOTHEQUE CLAUDE LEVIS STRAUSS (EX : FLANDRE)",
+        "code_site": "PARIS_WIFI_1905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3713745, 48.8866811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 274,
+        "arrondissement": "75019",
+        "adresse": "2, RUE DU DEPARTEMENT",
+        "geo_point_2d1": 48.8850108,
+        "geo_point_2d2": 2.3672162,
+        "nom_site": "BIBLIOTHEQUE HERGE",
+        "code_site": "PARIS_WIFI_1906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3672162, 48.8850108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 275,
+        "arrondissement": "75019",
+        "adresse": "18, RUE JANSSEN",
+        "geo_point_2d1": 48.879393,
+        "geo_point_2d2": 2.3973169,
+        "nom_site": "BIBLIOTHEQUE PLACE DES FETES",
+        "code_site": "PARIS_WIFI_1907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3973169, 48.879393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 278,
+        "arrondissement": "75019",
+        "adresse": "5, PLACE ARMAND CARREL",
+        "geo_point_2d1": 48.8828088,
+        "geo_point_2d2": 2.3820453,
+        "nom_site": "MAIRIE  19",
+        "code_site": "PARIS_WIFI_1910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3820453, 48.8828088]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 283,
+        "arrondissement": "75019",
+        "adresse": "7, RUE BOTZARIS",
+        "geo_point_2d1": 48.879774,
+        "geo_point_2d2": 2.3884319,
+        "nom_site": "PARC DES BUTTES CHAUMONT (VILLETTE)",
+        "code_site": "PARIS_WIFI_1915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3884319, 48.879774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 286,
+        "arrondissement": "75019",
+        "adresse": "3, RUE BOTZARIS",
+        "geo_point_2d1": 48.8778887,
+        "geo_point_2d2": 2.3808195,
+        "nom_site": "PARC DES BUTTES CHAUMONT (FESSARD)",
+        "code_site": "PARIS_WIFI_1918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3808195, 48.8778887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 288,
+        "arrondissement": "75019",
+        "adresse": "BOULEVARD MACDONALD",
+        "geo_point_2d1": 48.8992559,
+        "geo_point_2d2": 2.3745041,
+        "nom_site": "SQUARE CLAUDE BERNARD (ex JARDIN D AUBERVILLIERS)",
+        "code_site": "PARIS_WIFI_1920"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3745041, 48.8992559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 295,
+        "arrondissement": "75020",
+        "adresse": "17, RUE SORBIER",
+        "geo_point_2d1": 48.8659535,
+        "geo_point_2d2": 2.3928087,
+        "nom_site": "BIBLIOTHEQUE SORBIER",
+        "code_site": "PARIS_WIFI_2005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3928087, 48.8659535]
+      }
+    }
+  ]
+}

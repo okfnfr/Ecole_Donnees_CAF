@@ -1,0 +1,1805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": null,
+        "Nom": "Emmaüs Connect",
+        "adresse": "6, rue du Tage",
+        "CodeInsee": 75113,
+        "result_label": "6 Rue du Tage 75013 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270825496",
+        "result_housenumber": "6",
+        "result_name": "Rue du Tage",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.357675, 48.822218]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f34020dde77fe55ff000ed7",
+        "Nom": "Les Olympiades",
+        "adresse": "47 rue du Javelot",
+        "CodeInsee": 75113,
+        "result_label": "47 Rue du Javelot 75013 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000312904672",
+        "result_housenumber": "47",
+        "result_name": "Rue du Javelot",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.36523, 48.824639]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f340192de77fe55ff0003f3",
+        "Nom": "EPN - BelleVille Social Club",
+        "adresse": "12 rue Jules Romains",
+        "CodeInsee": 75119,
+        "result_label": "12 Rue Jules Romains 75019 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270742148",
+        "result_housenumber": "12",
+        "result_name": "Rue Jules Romains",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.378092, 48.873438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401cdde77fe55ff000904",
+        "Nom": "association AGECA",
+        "adresse": "177 rue de Charonne",
+        "CodeInsee": 75111,
+        "result_label": "177 Rue de Charonne 75011 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000340086813",
+        "result_housenumber": "177",
+        "result_name": "Rue de Charonne",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.392059, 48.855977]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "52de88eade77fe544f83a4f4",
+        "Nom": "CLIP",
+        "adresse": "12 rue Charles FOURIER",
+        "CodeInsee": 75113,
+        "result_label": "12 Rue Charles Fourier 75013 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270823653",
+        "result_housenumber": "12",
+        "result_name": "Rue Charles Fourier",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.352102, 48.824666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f8c56ccde77fe2346000002",
+        "Nom": "La maison du Canal, Régie de quartier Paris 10",
+        "adresse": "13/17 rue Louis Blanc",
+        "CodeInsee": 75110,
+        "result_label": "17 Rue Louis Blanc 75010 Paris",
+        "result_score": 0.81,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270731655",
+        "result_housenumber": "17",
+        "result_name": "Rue Louis Blanc",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.368294, 48.879313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401b1de77fe55ff0006be",
+        "Nom": "EPN Porte de Montreuil Ludo Tech",
+        "adresse": "39 boulevard Davout",
+        "CodeInsee": 75120,
+        "result_label": "39 Boulevard Davout 75020 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270786146",
+        "result_housenumber": "39",
+        "result_name": "Boulevard Davout",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.410987, 48.850517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f340180de77fe55ff00023e",
+        "Nom": "Cercle amical MEDEM",
+        "adresse": "52 rue René Boulanger",
+        "CodeInsee": 75110,
+        "result_label": "52 Rue René Boulanger 75010 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270751755",
+        "result_housenumber": "52",
+        "result_name": "Rue René Boulanger",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.359705, 48.868705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401b7de77fe55ff000753",
+        "Nom": "Bureau des Cours Municipaux d'Adultes (Antenne Belleville)",
+        "adresse": "77 boulevard de Belleville",
+        "CodeInsee": 75111,
+        "result_label": "77 Boulevard de Belleville 75011 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270746776",
+        "result_housenumber": "77",
+        "result_name": "Boulevard de Belleville",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.377427, 48.87128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f340223de77fe55ff00108a",
+        "Nom": "Cybercafé gratuit Paris 14ème",
+        "adresse": "5 place Marcel Paul",
+        "CodeInsee": 75114,
+        "result_label": "5 Place Marcel Paul 75014 Paris",
+        "result_score": 0.93,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270812509",
+        "result_housenumber": "5",
+        "result_name": "Place Marcel Paul",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.319433, 48.833919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401b7de77fe55ff000751",
+        "Nom": "Centre d'études et d'action sociale et culturelle",
+        "adresse": "23, rue de la Sourdière",
+        "CodeInsee": 75101,
+        "result_label": "23 Rue de la Sourdière 75001 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270757076",
+        "result_housenumber": "23",
+        "result_name": "Rue de la Sourdière",
+        "result_street": null,
+        "result_postcode": 75001,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.332498, 48.866457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401b7de77fe55ff000754",
+        "Nom": "Bureau des Cours Municipaux d'Adultes (Antenne Alésia)",
+        "adresse": "132 rue d'Alésia",
+        "CodeInsee": 75114,
+        "result_label": "132 Rue d'Alesia 75014 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270817032",
+        "result_housenumber": "132",
+        "result_name": "Rue d'Alesia",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.319421, 48.830516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401e5de77fe55ff000b2d",
+        "Nom": "Bibliothèque Edmond Rostand",
+        "adresse": "11 rue Nicolas Chuquet",
+        "CodeInsee": 75117,
+        "result_label": "11 Rue Nicolas Chuquet 75017 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270715971",
+        "result_housenumber": "11",
+        "result_name": "Rue Nicolas Chuquet",
+        "result_street": null,
+        "result_postcode": 75017,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.30308, 48.888389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f34020ade77fe55ff000e9b",
+        "Nom": "Ars Longa",
+        "adresse": "67 avenue de Parmentier",
+        "CodeInsee": 75111,
+        "result_label": "67 Avenue Parmentier 75011 Paris",
+        "result_score": 0.83,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270762135",
+        "result_housenumber": "67",
+        "result_name": "Avenue Parmentier",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.37529, 48.864002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401e5de77fe55ff000b39",
+        "Nom": "Maison du développement économique et de l’emploi du 14 ème",
+        "adresse": "13 rue Rémy Dumoncel",
+        "CodeInsee": 75114,
+        "result_label": "13 Rue Rémy Dumoncel 75014 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270818170",
+        "result_housenumber": "13",
+        "result_name": "Rue Rémy Dumoncel",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.332377, 48.829676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401e5de77fe55ff000b31",
+        "Nom": "Cyber Emploi 17è",
+        "adresse": "5 rue Roberval",
+        "CodeInsee": 75117,
+        "result_label": "5 Rue Roberval 75017 Paris",
+        "result_score": 0.93,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270708665",
+        "result_housenumber": "5",
+        "result_name": "Rue Roberval",
+        "result_street": null,
+        "result_postcode": 75017,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.32196, 48.894424]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401c9de77fe55ff0008b0",
+        "Nom": "Espace Dynamique Insertion « Emergence »",
+        "adresse": "3 rue Bouvier",
+        "CodeInsee": 75111,
+        "result_label": "3 Rue Bouvier 75011 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270782857",
+        "result_housenumber": "3",
+        "result_name": "Rue Bouvier",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.388301, 48.852145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "52245450de77fe5d294f2ca5",
+        "Nom": "LOREM",
+        "adresse": "4 rue des Mariniers",
+        "CodeInsee": 75114,
+        "result_label": "4 Rue des Mariniers 75014 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270820405",
+        "result_housenumber": "4",
+        "result_name": "Rue des Mariniers",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.311445, 48.827451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401e5de77fe55ff000b2e",
+        "Nom": "Le rond-point Baudricourt",
+        "adresse": "65 Avenue d'Ivry",
+        "CodeInsee": 75113,
+        "result_label": "65 Avenue d'Ivry 75013 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270824389",
+        "result_housenumber": "65",
+        "result_name": "Avenue d'Ivry",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.364562, 48.823836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401bbde77fe55ff00077b",
+        "Nom": "Maisons des compagnons clignancourt - Association Emmaüs",
+        "adresse": "93 rue de Clignancourt",
+        "CodeInsee": 75118,
+        "result_label": "93 Rue de Clignancourt 75018 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270712585",
+        "result_housenumber": "93",
+        "result_name": "Rue de Clignancourt",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.348421, 48.890785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401f8de77fe55ff000ceb",
+        "Nom": "CAEM A Fleur de Peau",
+        "adresse": "90 bis, rue de Crimée",
+        "CodeInsee": 75119,
+        "result_label": "90 BIS Rue de Crimée 75019 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270724197",
+        "result_housenumber": "90 BIS",
+        "result_name": "Rue de Crimée",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.385263, 48.883322]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "5151db87de77fe295a000010",
+        "Nom": "Association Colombbus",
+        "adresse": "3 passage du Buisson Saint Louis",
+        "CodeInsee": 75110,
+        "result_label": "3 Passage du Buisson Saint-Louis 75010 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270744807",
+        "result_housenumber": "3",
+        "result_name": "Passage du Buisson Saint-Louis",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.372568, 48.872241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f34021dde77fe55ff001006",
+        "Nom": "Confluences",
+        "adresse": "190 boulevard de Charonne",
+        "CodeInsee": 75120,
+        "result_label": "190 Boulevard de Charonne 75020 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270772140",
+        "result_housenumber": "190",
+        "result_name": "Boulevard de Charonne",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.392431, 48.857867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f34019cde77fe55ff0004d9",
+        "Nom": "Alternord",
+        "adresse": "29 rue de Bellefond",
+        "CodeInsee": 75109,
+        "result_label": "29 Rue de Bellefond 75009 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000312905243",
+        "result_housenumber": "29",
+        "result_name": "Rue de Bellefond",
+        "result_street": null,
+        "result_postcode": 75009,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.346505, 48.877911]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f34019cde77fe55ff0004d8",
+        "Nom": "Antenne Bourdonnais",
+        "adresse": "105 avenue de la Bourdonnais",
+        "CodeInsee": 75106,
+        "result_label": "105 Rue de Rennes 75006 Paris",
+        "result_score": 0.32,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270789355",
+        "result_housenumber": "105",
+        "result_name": "Rue de Rennes",
+        "result_street": null,
+        "result_postcode": 75006,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.328683, 48.848715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f34018ede77fe55ff000397",
+        "Nom": "Centre d'animation Sohane",
+        "adresse": "20 rue Georges Duhamel",
+        "CodeInsee": 75115,
+        "result_label": "20 Rue Georges Duhamel 75015 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270810751",
+        "result_housenumber": "20",
+        "result_name": "Rue Georges Duhamel",
+        "result_street": null,
+        "result_postcode": 75015,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.311798, 48.835498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401f6de77fe55ff000ccd",
+        "Nom": "CYBER EMPLOI CENTRE",
+        "adresse": "155 rue de Charonne",
+        "CodeInsee": 75111,
+        "result_label": "155 Rue de Charonne 75011 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270776485",
+        "result_housenumber": "155",
+        "result_name": "Rue de Charonne",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.389091, 48.855486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401c1de77fe55ff000817",
+        "Nom": "FREPAM",
+        "adresse": "6, rue de Budapest",
+        "CodeInsee": 75109,
+        "result_label": "6 Rue de Budapest 75009 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270736752",
+        "result_housenumber": "6",
+        "result_name": "Rue de Budapest",
+        "result_street": null,
+        "result_postcode": 75009,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.32768, 48.876199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401d7de77fe55ff0009f7",
+        "Nom": "Centre d Animation MJC-PIJ",
+        "adresse": "4 rue Mercoeur",
+        "CodeInsee": 75111,
+        "result_label": "4 Rue Mercoeur 75011 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270773871",
+        "result_housenumber": "4",
+        "result_name": "Rue Mercoeur",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.383143, 48.856892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401cbde77fe55ff0008d4",
+        "Nom": "Cybercafé gratuit Ramage Paris 7",
+        "adresse": "4 rue Amélie",
+        "CodeInsee": 75107,
+        "result_label": "4 Rue Amélie 75007 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270769157",
+        "result_housenumber": "4",
+        "result_name": "Rue Amélie",
+        "result_street": null,
+        "result_postcode": 75007,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.307357, 48.859392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f34017ede77fe55ff00020a",
+        "Nom": "Les Jardins Numériques",
+        "adresse": "35/37, rue Fessart",
+        "CodeInsee": 75119,
+        "result_label": "37 Rue Fessart 75019 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270736382",
+        "result_housenumber": "37",
+        "result_name": "Rue Fessart",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.384943, 48.876763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401b1de77fe55ff0006c5",
+        "Nom": "Fraternité Numérique",
+        "adresse": "10 rue Saint Marc",
+        "CodeInsee": 75102,
+        "result_label": "10 Rue Saint-Marc 75002 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270748047",
+        "result_housenumber": "10",
+        "result_name": "Rue Saint-Marc",
+        "result_street": null,
+        "result_postcode": 75002,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.341366, 48.870393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f340207de77fe55ff000e51",
+        "Nom": "Cyberespace de l'Agora -  Association Emmaüs",
+        "adresse": "32 rue des Bourdonnais",
+        "CodeInsee": 75101,
+        "result_label": "32 Rue des Bourdonnais 75001 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270768176",
+        "result_housenumber": "32",
+        "result_name": "Rue des Bourdonnais",
+        "result_street": null,
+        "result_postcode": 75001,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.345237, 48.860009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4fedd0e4de77fe5ff8000006",
+        "Nom": "Emmaüs- Centre d'hebergement, espace citoyen et culturel Louvel Tessier",
+        "adresse": "36 rue Louvel Tessier",
+        "CodeInsee": 75110,
+        "result_label": "36 Rue Jacques Louvel-Tessier 75010 Paris",
+        "result_score": 0.68,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270745826",
+        "result_housenumber": "36",
+        "result_name": "Rue Jacques Louvel-Tessier",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.371338, 48.871518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401e4de77fe55ff000b21",
+        "Nom": "Cité des Sciences et de l'Industrie / carrefour numérique",
+        "adresse": "30 avenue Corentin Cariou",
+        "CodeInsee": 75119,
+        "result_label": "30 Avenue Corentin Cariou 75019 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270706497",
+        "result_housenumber": "30",
+        "result_name": "Avenue Corentin Cariou",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3852, 48.897032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4faa3cb6de77fe35fd000006",
+        "Nom": "EPN test",
+        "adresse": "21 rue Descartes",
+        "CodeInsee": 75105,
+        "result_label": "21 Rue Descartes 75005 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270793266",
+        "result_housenumber": "21",
+        "result_name": "Rue Descartes",
+        "result_street": null,
+        "result_postcode": 75005,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.349228, 48.846386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f34018ade77fe55ff000325",
+        "Nom": "Access-Site",
+        "adresse": "13 Place de Rungis",
+        "CodeInsee": 75113,
+        "result_label": "13 Place de Rungis 75013 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270825580",
+        "result_housenumber": "13",
+        "result_name": "Place de Rungis",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.346329, 48.821737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f340176de77fe55ff000133",
+        "Nom": "EPN du Centre Social BelleVille",
+        "adresse": "28 rue Rébeval",
+        "CodeInsee": 75119,
+        "result_label": "28 Rue Rebeval 75019 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270740489",
+        "result_housenumber": "28",
+        "result_name": "Rue Rebeval",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.377832, 48.874239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401c2de77fe55ff00081a",
+        "Nom": "Atelier des Réseaux",
+        "adresse": "59-61, rue Riquet",
+        "CodeInsee": 75119,
+        "result_label": "61 Rue Riquet 75019 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270714332",
+        "result_housenumber": "61",
+        "result_name": "Rue Riquet",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.368536, 48.889531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401bade77fe55ff000772",
+        "Nom": "Centre d'hébergement la chapelle - Association Emmaüs",
+        "adresse": "63 rue de la Chapelle",
+        "CodeInsee": 75118,
+        "result_label": "63 Rue de la Chapelle 75018 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270707172",
+        "result_housenumber": "63",
+        "result_name": "Rue de la Chapelle",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.358761, 48.895705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401c4de77fe55ff000839",
+        "Nom": "Emmaus Cyber espace",
+        "adresse": "57 rue de Javel",
+        "CodeInsee": 75115,
+        "result_label": "57 Rue de Javel 75015 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270795217",
+        "result_housenumber": "57",
+        "result_name": "Rue de Javel",
+        "result_street": null,
+        "result_postcode": 75015,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.282826, 48.845394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401b7de77fe55ff000752",
+        "Nom": "Centre d'animation des Halles Le Marais",
+        "adresse": "6-8 place Carrée",
+        "CodeInsee": 75101,
+        "result_label": "Place Carrée 75001 Paris",
+        "result_score": 0.69,
+        "result_type": "street",
+        "result_id": "75101_1570_82e0be",
+        "result_housenumber": null,
+        "result_name": "Place Carrée",
+        "result_street": null,
+        "result_postcode": 75001,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.345228, 48.862246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401fbde77fe55ff000d30",
+        "Nom": "Espace 19 Multimédia",
+        "adresse": "175 bis rue de Crimée",
+        "CodeInsee": 75119,
+        "result_label": "Rue de Crimée 75019 Paris",
+        "result_score": 0.59,
+        "result_type": "street",
+        "result_id": "75119_2443_d732df",
+        "result_housenumber": null,
+        "result_name": "Rue de Crimée",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.38227, 48.885916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401b6de77fe55ff000750",
+        "Nom": "Cyber Spirale Egénération",
+        "adresse": "6, Rue de Budapest",
+        "CodeInsee": 75109,
+        "result_label": "6 Rue de Budapest 75009 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270736752",
+        "result_housenumber": "6",
+        "result_name": "Rue de Budapest",
+        "result_street": null,
+        "result_postcode": 75009,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.32768, 48.876199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "52de902bde77fe544f83a4f7",
+        "Nom": "EPN NetPublic Formation",
+        "adresse": "1 rue Descartes",
+        "CodeInsee": 75105,
+        "result_label": "1 Rue Descartes 75005 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270791625",
+        "result_housenumber": "1",
+        "result_name": "Rue Descartes",
+        "result_street": null,
+        "result_postcode": 75005,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.348593, 48.847466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401ffde77fe55ff000d9e",
+        "Nom": "PIJ CIEJ - Centre d'initiatives pour l'Emploi des Jeunes",
+        "adresse": "3 rue du Coq Héron",
+        "CodeInsee": 75101,
+        "result_label": "3 Rue Coq Héron 75001 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270761706",
+        "result_housenumber": "3",
+        "result_name": "Rue Coq Héron",
+        "result_street": null,
+        "result_postcode": 75001,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.342002, 48.864256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401c3de77fe55ff00082c",
+        "Nom": "Club activités numériques E-SENIORS",
+        "adresse": "13 rue du Cambodge",
+        "CodeInsee": 75120,
+        "result_label": "13 Rue du Cambodge 75020 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270757489",
+        "result_housenumber": "13",
+        "result_name": "Rue du Cambodge",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.398107, 48.866086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401c8de77fe55ff0008a2",
+        "Nom": "Cybercafé gratuit Ramage 15",
+        "adresse": "69 rue Violet",
+        "CodeInsee": 75115,
+        "result_label": "69 Rue Violet 75015 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270794348",
+        "result_housenumber": "69",
+        "result_name": "Rue Violet",
+        "result_street": null,
+        "result_postcode": 75015,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.291382, 48.845626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f340183de77fe55ff00027d",
+        "Nom": "L'@nnexe - Espace Numérique du Relais 59",
+        "adresse": "8, place Henri Frenay",
+        "CodeInsee": 75112,
+        "result_label": "Place Henri Frenay 75012 Paris",
+        "result_score": 0.84,
+        "result_type": "street",
+        "result_id": "75112_4562_a08846",
+        "result_housenumber": null,
+        "result_name": "Place Henri Frenay",
+        "result_street": null,
+        "result_postcode": 75012,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.376762, 48.844945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f340183de77fe55ff00027e",
+        "Nom": "EPN Le Picoulet",
+        "adresse": "59 rue de la Fontaine au Roi",
+        "CodeInsee": 75111,
+        "result_label": "59 Rue de la Fontaine au Roi 75011 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270752668",
+        "result_housenumber": "59",
+        "result_name": "Rue de la Fontaine au Roi",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.374232, 48.868348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f340183de77fe55ff00027f",
+        "Nom": "EPN CEFIA Jonquière",
+        "adresse": "102 rue de la Jonquière",
+        "CodeInsee": 75117,
+        "result_label": "102 Rue de la Jonquière 75017 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270707871",
+        "result_housenumber": "102",
+        "result_name": "Rue de la Jonquière",
+        "result_street": null,
+        "result_postcode": 75017,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.317732, 48.895044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f340216de77fe55ff000fa0",
+        "Nom": "EPN du 3ème",
+        "adresse": "62 rue de Bretagne",
+        "CodeInsee": 75103,
+        "result_label": "62 Rue de Bretagne 75003 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270761490",
+        "result_housenumber": "62",
+        "result_name": "Rue de Bretagne",
+        "result_street": null,
+        "result_postcode": 75003,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.360669, 48.864049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401fcde77fe55ff000d50",
+        "Nom": "EPN  Relais Ménilmontant",
+        "adresse": "85 bis rue Ménilmontant",
+        "CodeInsee": 75120,
+        "result_label": "85 BIS Rue de Menilmontant 75020 Paris",
+        "result_score": 0.84,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270751545",
+        "result_housenumber": "85 BIS",
+        "result_name": "Rue de Menilmontant",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.39022, 48.86885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401fcde77fe55ff000d51",
+        "Nom": "Centre Social La Clairiere-CASP",
+        "adresse": "60, rue Greneta",
+        "CodeInsee": 75102,
+        "result_label": "60 Rue Greneta 75002 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270758902",
+        "result_housenumber": "60",
+        "result_name": "Rue Greneta",
+        "result_street": null,
+        "result_postcode": 75002,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.347621, 48.865594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f34018ede77fe55ff000396",
+        "Nom": "Centre animation Brancion",
+        "adresse": "18 avenue de la porte de Brancion",
+        "CodeInsee": 75115,
+        "result_label": "18 Avenue de la Porte Brancion 75015 Paris",
+        "result_score": 0.86,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270821412",
+        "result_housenumber": "18",
+        "result_name": "Avenue de la Porte Brancion",
+        "result_street": null,
+        "result_postcode": 75015,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.300413, 48.826626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401d8de77fe55ff000a1a",
+        "Nom": "Microlithe",
+        "adresse": "59 bis rue Olivier Métra",
+        "CodeInsee": 75120,
+        "result_label": "59 BIS Rue Olivier Métra 75020 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000340145914",
+        "result_housenumber": "59 BIS",
+        "result_name": "Rue Olivier Métra",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.392603, 48.874746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f34018ede77fe55ff000395",
+        "Nom": "ACTISCE - Centre d'animation Daviel",
+        "adresse": "24 rue Daviel",
+        "CodeInsee": 75113,
+        "result_label": "24 Rue Daviel 75013 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270819701",
+        "result_housenumber": "24",
+        "result_name": "Rue Daviel",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.345119, 48.828064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401bade77fe55ff00077a",
+        "Nom": "maison des compagnons Ledion - Association Emmaüs",
+        "adresse": "3 rue Ledion",
+        "CodeInsee": 75114,
+        "result_label": "3 Rue Ledion 75014 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270820392",
+        "result_housenumber": "3",
+        "result_name": "Rue Ledion",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.315626, 48.827596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401bade77fe55ff000778",
+        "Nom": "Centre d'hébergement Pyrénées 2 - Association Emmaüs",
+        "adresse": "260 rue des Pyrénées",
+        "CodeInsee": 75120,
+        "result_label": "260 Rue des Pyrénées 75020 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000331929047",
+        "result_housenumber": "260",
+        "result_name": "Rue des Pyrénées",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.395258, 48.869234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401bade77fe55ff000776",
+        "Nom": "Maison du 13 - Association Emmaüs",
+        "adresse": "47 Boulevard de l'hôpital",
+        "CodeInsee": 75113,
+        "result_label": "47 Boulevard de l'Hôpital 75013 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000340135768",
+        "result_housenumber": "47",
+        "result_name": "Boulevard de l'Hôpital",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.362259, 48.840293]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401bade77fe55ff000774",
+        "Nom": "Le kiosque - Association Emmaüs",
+        "adresse": "218 rue du faubourg Saint-Martin",
+        "CodeInsee": 75110,
+        "result_label": "218 Rue du Faubourg Saint-Martin 75010 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270730776",
+        "result_housenumber": "218",
+        "result_name": "Rue du Faubourg Saint-Martin",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.364036, 48.880021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401f7de77fe55ff000cd5",
+        "Nom": "E-génération",
+        "adresse": "4 bis Passage du Poteau",
+        "CodeInsee": 75118,
+        "result_label": "Passage du Poteau 75018 Paris",
+        "result_score": 0.69,
+        "result_type": "street",
+        "result_id": "75118_7754_ca8c47",
+        "result_housenumber": null,
+        "result_name": "Passage du Poteau",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.337022, 48.897394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401b9de77fe55ff000771",
+        "Nom": "Centre d'hébergement Aude Georges Dunand - Association Emmaüs",
+        "adresse": "18 rue de l'aude",
+        "CodeInsee": 75114,
+        "result_label": "18 Rue de l'Aude 75014 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270821240",
+        "result_housenumber": "18",
+        "result_name": "Rue de l'Aude",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.333449, 48.826722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401b9de77fe55ff000770",
+        "Nom": "Bichat - Association Emmaüs",
+        "adresse": "35 rue Bichat",
+        "CodeInsee": 75110,
+        "result_label": "35 Rue Bichat 75010 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270744845",
+        "result_housenumber": "35",
+        "result_name": "Rue Bichat",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.367569, 48.871939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f34018ede77fe55ff000398",
+        "Nom": "EPN Vercingétorix",
+        "adresse": "181-183 rue Vercingétorix",
+        "CodeInsee": 75114,
+        "result_label": "183 Rue Vercingétorix 75014 Paris",
+        "result_score": 0.79,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270815519",
+        "result_housenumber": "183",
+        "result_name": "Rue Vercingétorix",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.30941, 48.831449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401b9de77fe55ff00076d",
+        "Nom": "CHRS LANCRY- Association Emmaüs",
+        "adresse": "29 rue de Lancry",
+        "CodeInsee": 75110,
+        "result_label": "29 Rue de Lancry 75010 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270747863",
+        "result_housenumber": "29",
+        "result_name": "Rue de Lancry",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.360995, 48.870374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401b9de77fe55ff00076c",
+        "Nom": "Espace Emploi Dimey - Association Emmaüs",
+        "adresse": "17 rue Bernard Dimey",
+        "CodeInsee": 75118,
+        "result_label": "17 Rue Bernard Dimey 75018 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270706706",
+        "result_housenumber": "17",
+        "result_name": "Rue Bernard Dimey",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.330813, 48.896786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401b9de77fe55ff00076f",
+        "Nom": "Observatoire - Association Emmaüs",
+        "adresse": "26 avenue de l'Observatoire",
+        "CodeInsee": 75114,
+        "result_label": "26 Avenue de l'Observatoire 75014 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270805358",
+        "result_housenumber": "26",
+        "result_name": "Avenue de l'Observatoire",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.33638, 48.839197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401b9de77fe55ff00076e",
+        "Nom": "Centre d'hébergement Louvre - Laumière - Association Emmaüs",
+        "adresse": "42, rue du Louvre",
+        "CodeInsee": 75101,
+        "result_label": "42 Rue du Louvre 75001 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270763164",
+        "result_housenumber": "42",
+        "result_name": "Rue du Louvre",
+        "result_street": null,
+        "result_postcode": 75001,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.342209, 48.863304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401b9de77fe55ff000769",
+        "Nom": "ESI - Familles Association Emmaüs",
+        "adresse": "4 rue Georges Pitard",
+        "CodeInsee": 75115,
+        "result_label": "4 Rue Georges Pitard 75015 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270810758",
+        "result_housenumber": "4",
+        "result_name": "Rue Georges Pitard",
+        "result_street": null,
+        "result_postcode": 75015,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.311072, 48.835549]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "58ad681bde77fe6b5ef75c93",
+        "Nom": "EPN AdN",
+        "adresse": "120 rue de Bercy",
+        "CodeInsee": 75112,
+        "result_label": "120 Rue de Bercy 75012 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270802954",
+        "result_housenumber": "120",
+        "result_name": "Rue de Bercy",
+        "result_street": null,
+        "result_postcode": 75012,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.378447, 48.840958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f340205de77fe55ff000e37",
+        "Nom": "Espace Torcy",
+        "adresse": "2 rue de Torcy",
+        "CodeInsee": 75118,
+        "result_label": "2 Rue de Torcy 75018 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270711919",
+        "result_housenumber": "2",
+        "result_name": "Rue de Torcy",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.365241, 48.891176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401e6de77fe55ff000b3a",
+        "Nom": "Maison du développement économique et de lemploi du 18ème arrondissement",
+        "adresse": "164 rue Ordener",
+        "CodeInsee": 75118,
+        "result_label": "164 Rue Ordener 75018 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270709052",
+        "result_housenumber": "164",
+        "result_name": "Rue Ordener",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.335491, 48.893851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f3401d7de77fe55ff0009f8",
+        "Nom": "CIDJ-CIJ",
+        "adresse": "101 quai Branly",
+        "CodeInsee": 75115,
+        "result_label": "101 Quai Branly 75015 Paris",
+        "result_score": 0.93,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270775316",
+        "result_housenumber": "101",
+        "result_name": "Quai Branly",
+        "result_street": null,
+        "result_postcode": 75015,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.290049, 48.855739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Identifiant": "4f340216de77fe55ff000f91",
+        "Nom": "La Goutte d'Ordinateur",
+        "adresse": "7 rue Léon",
+        "CodeInsee": 75118,
+        "result_label": "7 Rue Léon 75018 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270717556",
+        "result_housenumber": "7",
+        "result_name": "Rue Léon",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.353394, 48.887177]
+      }
+    }
+  ]
+}
