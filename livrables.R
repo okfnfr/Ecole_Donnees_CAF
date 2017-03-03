@@ -275,7 +275,7 @@ tm_shape(iris13) +
   tm_borders() +
 tm_shape(chevaleret) +
   tm_borders(lwd = 2, lty = 5) +
-tm_layout(title = "Les hotspots wifi Ville de Paris dans le 13e", scale = 1, attr.outside.position = "bottom", attr.outside = TRUE, title.size = 2) +
+tm_layout(title = "Les points d'accès wifi libres et gratuits de la Ville de Paris dans le 13e", scale = 1, attr.outside.position = "bottom", attr.outside = TRUE, title.size = 2) +
   tm_credits("Source : opendata.paris.fr. Réalisation : École des données/OKF pour la CAF.\nMap tiles by Carto, under CC BY 3.0. Data by OpenStreetMap, under ODbL.")
 dev.off()
 dev.off()
